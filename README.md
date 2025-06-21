@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-2992095133) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 💪 Opened PR [#469](https://github.com/Jean-Tinland/simple-bar/pull/469) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
-3. ❌ Closed PR [#207](https://github.com/khaneliman/khanelinix/pull/207) in [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix)
-4. 💪 Opened PR [#3442](https://github.com/spicetify/cli/pull/3442) in [spicetify/cli](https://github.com/spicetify/cli)
-5. 💪 Opened PR [#5](https://github.com/ThePrimeagen/daydream/pull/5) in [ThePrimeagen/daydream](https://github.com/ThePrimeagen/daydream)
+1. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-2993616169) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+2. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-2992095133) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+3. 💪 Opened PR [#469](https://github.com/Jean-Tinland/simple-bar/pull/469) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
+4. ❌ Closed PR [#207](https://github.com/khaneliman/khanelinix/pull/207) in [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix)
+5. 💪 Opened PR [#3442](https://github.com/spicetify/cli/pull/3442) in [spicetify/cli](https://github.com/spicetify/cli)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
