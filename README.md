@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#267](https://github.com/joshmedeski/sesh/issues/267) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
-2. 💪 Opened PR [#777](https://github.com/amix/vimrc/pull/777) in [amix/vimrc](https://github.com/amix/vimrc)
-3. 💪 Opened PR [#776](https://github.com/amix/vimrc/pull/776) in [amix/vimrc](https://github.com/amix/vimrc)
-4. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-2993616169) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-5. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-2992095133) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1. 🗣 Commented on [#267](https://github.com/joshmedeski/sesh/issues/267#issuecomment-2996871729) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+2. ❗ Opened issue [#267](https://github.com/joshmedeski/sesh/issues/267) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+3. 💪 Opened PR [#777](https://github.com/amix/vimrc/pull/777) in [amix/vimrc](https://github.com/amix/vimrc)
+4. 💪 Opened PR [#776](https://github.com/amix/vimrc/pull/776) in [amix/vimrc](https://github.com/amix/vimrc)
+5. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-2993616169) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
