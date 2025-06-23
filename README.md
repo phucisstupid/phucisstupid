@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/joshmedeski/sesh/issues/267#issuecomment-2997013007) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
-2. 🗣 Commented on [#267](https://github.com/joshmedeski/sesh/issues/267#issuecomment-2996871729) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
-3. ❗ Opened issue [#267](https://github.com/joshmedeski/sesh/issues/267) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
-4. 💪 Opened PR [#777](https://github.com/amix/vimrc/pull/777) in [amix/vimrc](https://github.com/amix/vimrc)
-5. 💪 Opened PR [#776](https://github.com/amix/vimrc/pull/776) in [amix/vimrc](https://github.com/amix/vimrc)
+1. ❗ Opened issue [#7313](https://github.com/nix-community/home-manager/issues/7313) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. 🗣 Commented on [#267](https://github.com/joshmedeski/sesh/issues/267#issuecomment-2997013007) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+3. 🗣 Commented on [#267](https://github.com/joshmedeski/sesh/issues/267#issuecomment-2996871729) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+4. ❗ Opened issue [#267](https://github.com/joshmedeski/sesh/issues/267) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+5. 💪 Opened PR [#777](https://github.com/amix/vimrc/pull/777) in [amix/vimrc](https://github.com/amix/vimrc)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
