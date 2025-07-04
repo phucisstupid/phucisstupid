@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#80](https://github.com/FelixKratz/dotfiles/pull/80) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
-2. 🗣 Commented on [#25](https://github.com/D3Ext/aesthetic-wallpapers/pull/25#issuecomment-3023893970) in [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers)
-3. ❗ Opened issue [#474](https://github.com/Jean-Tinland/simple-bar/issues/474) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
-4. 🗣 Commented on [#1228](https://github.com/torvalds/linux/pull/1228#issuecomment-3016447314) in [torvalds/linux](https://github.com/torvalds/linux)
-5. 💪 Opened PR [#7337](https://github.com/nix-community/home-manager/pull/7337) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. ❗ Opened issue [#345](https://github.com/nix-community/nh/issues/345) in [nix-community/nh](https://github.com/nix-community/nh)
+2. 💪 Opened PR [#80](https://github.com/FelixKratz/dotfiles/pull/80) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
+3. 🗣 Commented on [#25](https://github.com/D3Ext/aesthetic-wallpapers/pull/25#issuecomment-3023893970) in [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers)
+4. ❗ Opened issue [#474](https://github.com/Jean-Tinland/simple-bar/issues/474) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
+5. 🗣 Commented on [#1228](https://github.com/torvalds/linux/pull/1228#issuecomment-3016447314) in [torvalds/linux](https://github.com/torvalds/linux)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
