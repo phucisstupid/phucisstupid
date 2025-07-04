@@ -29,13 +29,13 @@
 ## 🐍 Contribution
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucleeuwu/phucleeuwu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucleeuwu/phucleeuwu/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/phucleeuwu/phucleeuwu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
 ## ⭐ Support Me
 
-If you enjoy what I do, consider leaving a star on [my repositories](https://github.com/phucleeuwu?tab=repositories&type=source). It really means a lot! 💙
+If you enjoy what I do, consider leaving a star and follow on [my profile](https://github.com/phucisstupid). It really means a lot! 💙
