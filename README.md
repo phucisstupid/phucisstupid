@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#345](https://github.com/nix-community/nh/issues/345#issuecomment-3037416746) in [nix-community/nh](https://github.com/nix-community/nh)
-2. ❗ Opened issue [#345](https://github.com/nix-community/nh/issues/345) in [nix-community/nh](https://github.com/nix-community/nh)
-3. 💪 Opened PR [#80](https://github.com/FelixKratz/dotfiles/pull/80) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
-4. 🗣 Commented on [#25](https://github.com/D3Ext/aesthetic-wallpapers/pull/25#issuecomment-3023893970) in [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers)
-5. ❗ Opened issue [#474](https://github.com/Jean-Tinland/simple-bar/issues/474) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
+1. ❗ Opened issue [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
+2. 💪 Opened PR [#13](https://github.com/llanosrocas/githead.yazi/pull/13) in [llanosrocas/githead.yazi](https://github.com/llanosrocas/githead.yazi)
+3. 🗣 Commented on [#345](https://github.com/nix-community/nh/issues/345#issuecomment-3037416746) in [nix-community/nh](https://github.com/nix-community/nh)
+4. ❗ Opened issue [#345](https://github.com/nix-community/nh/issues/345) in [nix-community/nh](https://github.com/nix-community/nh)
+5. 💪 Opened PR [#80](https://github.com/FelixKratz/dotfiles/pull/80) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
