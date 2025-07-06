@@ -2,7 +2,7 @@
 
 ---
 
-## 📊 〽️ Stats
+## 〽️ Stats
 
 ![Profile Detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucisstupid&theme=transparent)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucisstupid&theme=transparent)
@@ -21,8 +21,6 @@
 <!--END_SECTION:activity-->
 
 ---
-
-## 📈 WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
