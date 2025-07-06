@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/Lyndeno/apple-fonts.nix/issues/19) in [Lyndeno/apple-fonts.nix](https://github.com/Lyndeno/apple-fonts.nix)
-2. 🗣 Commented on [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5#issuecomment-3038826778) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
-3. ❗ Opened issue [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
-4. 💪 Opened PR [#13](https://github.com/llanosrocas/githead.yazi/pull/13) in [llanosrocas/githead.yazi](https://github.com/llanosrocas/githead.yazi)
-5. 🗣 Commented on [#345](https://github.com/nix-community/nh/issues/345#issuecomment-3037416746) in [nix-community/nh](https://github.com/nix-community/nh)
+1. 🗣 Commented on [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5#issuecomment-3041175789) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
+2. ❗ Opened issue [#19](https://github.com/Lyndeno/apple-fonts.nix/issues/19) in [Lyndeno/apple-fonts.nix](https://github.com/Lyndeno/apple-fonts.nix)
+3. 🗣 Commented on [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5#issuecomment-3038826778) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
+4. ❗ Opened issue [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
+5. 💪 Opened PR [#13](https://github.com/llanosrocas/githead.yazi/pull/13) in [llanosrocas/githead.yazi](https://github.com/llanosrocas/githead.yazi)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
