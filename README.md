@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phucisstupid&show_icons=true&theme=catppuccin_mocha"/>
-  <img src="https://streak-stats.demolab.com?user=phucisstupid&theme=catppuccin_mocha&"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=phucisstupid&show_icons=true&theme=catppuccin_mocha)
+![](https://streak-stats.demolab.com?user=phucisstupid&theme=catppuccin_mocha)
 
 ---
 
