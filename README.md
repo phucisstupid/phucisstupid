@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Hi+There!;Welcome+to+my+Github+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Hi+There!;Welcome+to+my+GitHub+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
-## 〽️ Stats
+## 📊 〽️ Stats
 
 ![Profile Detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucisstupid&theme=transparent)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucisstupid&theme=transparent)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📝 Recent Activity
+## 🕓 Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5#issuecomment-3041175789) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
@@ -20,13 +20,16 @@
 5. 💪 Opened PR [#13](https://github.com/llanosrocas/githead.yazi/pull/13) in [llanosrocas/githead.yazi](https://github.com/llanosrocas/githead.yazi)
 <!--END_SECTION:activity-->
 
-<!--START_SECTION:waka-->
+---
 
+## 📈 WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-## 🐍 Contribution
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake-dark.svg">
@@ -36,6 +39,11 @@
 
 ---
 
-## ⭐ Support Me
+## 🌟 Support Me
 
-If you enjoy what I do, consider leaving a star and follow on [my profile](https://github.com/phucisstupid). It really means a lot! 💙
+If you enjoy my projects or find them useful, feel free to:
+
+- ⭐ Star some repos  
+- 👤 Follow me on [GitHub](https://github.com/phucisstupid)
+
+Your support means a lot! 💙
