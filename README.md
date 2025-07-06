@@ -1,17 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Hi+There!;Welcome+to+my+GitHub+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
+![phucisstupid](https://github-readme-stats.vercel.app/api?username=phucisstupid&show_icons=true&theme=catppuccin_mocha)
 
 ---
 
-## 〽️ Stats
-
-![Profile Detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucisstupid&theme=transparent)
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucisstupid&theme=transparent)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucisstupid&theme=transparent&utcOffset=8)
-
----
-
-## 🕓 Recent Activity
-
+<!-- GitHub Activity Feed -->
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5#issuecomment-3041175789) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
 2. ❗ Opened issue [#19](https://github.com/Lyndeno/apple-fonts.nix/issues/19) in [Lyndeno/apple-fonts.nix](https://github.com/Lyndeno/apple-fonts.nix)
@@ -22,26 +13,18 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🐍 Contribution Snake
-
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-## 🌟 Support Me
-
-If you enjoy my projects or find them useful, feel free to:
+If you enjoy my projects or find them useful:
 
 - ⭐ Star some repos  
-- 👤 Follow me on [GitHub](https://github.com/phucisstupid)
+- 👤 Follow me [@phucisstupid](https://github.com/phucisstupid)
 
 Your support means a lot! 💙
