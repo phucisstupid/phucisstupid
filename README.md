@@ -2,7 +2,6 @@
 
 ---
 
-<!-- GitHub Activity Feed -->
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5#issuecomment-3041175789) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
 2. ❗ Opened issue [#19](https://github.com/Lyndeno/apple-fonts.nix/issues/19) in [Lyndeno/apple-fonts.nix](https://github.com/Lyndeno/apple-fonts.nix)
@@ -13,7 +12,6 @@
 
 ---
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake.svg">
@@ -22,9 +20,4 @@
 
 ---
 
-If you enjoy my projects or find them useful:
-
-- ⭐ Star some repos  
-- 👤 Follow me [@phucisstupid](https://github.com/phucisstupid)
-
-Your support means a lot! 💙
+If you enjoy what I do please ⭐ Star some repos, 👤 Follow me [@phucisstupid](https://github.com/phucisstupid). Your support means a lot! 💙
