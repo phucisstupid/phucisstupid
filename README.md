@@ -4,11 +4,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7337](https://github.com/nix-community/home-manager/pull/7337) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. 🗣 Commented on [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5#issuecomment-3041175789) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
-3. ❗ Opened issue [#19](https://github.com/Lyndeno/apple-fonts.nix/issues/19) in [Lyndeno/apple-fonts.nix](https://github.com/Lyndeno/apple-fonts.nix)
-4. 🗣 Commented on [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5#issuecomment-3038826778) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
-5. ❗ Opened issue [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
+1. 🗣 Commented on [#1731](https://github.com/catppuccin/userstyles/pull/1731#issuecomment-3045584251) in [catppuccin/userstyles](https://github.com/catppuccin/userstyles)
+2. ❌ Closed PR [#7337](https://github.com/nix-community/home-manager/pull/7337) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. 🗣 Commented on [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5#issuecomment-3041175789) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
+4. ❗ Opened issue [#19](https://github.com/Lyndeno/apple-fonts.nix/issues/19) in [Lyndeno/apple-fonts.nix](https://github.com/Lyndeno/apple-fonts.nix)
+5. 🗣 Commented on [#5](https://github.com/imsi32/yatline-githead.yazi/issues/5#issuecomment-3038826778) in [imsi32/yatline-githead.yazi](https://github.com/imsi32/yatline-githead.yazi)
 <!--END_SECTION:activity-->
 
 ---
