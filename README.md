@@ -4,11 +4,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#424214](https://github.com/NixOS/nixpkgs/pull/424214#issuecomment-3065392299) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#424214](https://github.com/NixOS/nixpkgs/pull/424214#issuecomment-3065339710) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 💪 Opened PR [#424582](https://github.com/NixOS/nixpkgs/pull/424582) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#424214](https://github.com/NixOS/nixpkgs/pull/424214#issuecomment-3064631584) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ❗ Opened issue [#694](https://github.com/hayase-app/ui/issues/694) in [hayase-app/ui](https://github.com/hayase-app/ui)
+1. 🗣 Commented on [#424582](https://github.com/NixOS/nixpkgs/pull/424582#issuecomment-3067107481) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#424214](https://github.com/NixOS/nixpkgs/pull/424214#issuecomment-3065392299) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#424214](https://github.com/NixOS/nixpkgs/pull/424214#issuecomment-3065339710) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#424582](https://github.com/NixOS/nixpkgs/pull/424582) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#424214](https://github.com/NixOS/nixpkgs/pull/424214#issuecomment-3064631584) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ---
