@@ -4,11 +4,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1041](https://github.com/nix-darwin/nix-darwin/issues/1041#issuecomment-3090243163) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-2. 💪 Opened PR [#33](https://github.com/matadaniel/LazyVim-module/pull/33) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-3. 🗣 Commented on [#424582](https://github.com/NixOS/nixpkgs/pull/424582#issuecomment-3083179961) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#1](https://github.com/orangci/walls/issues/1#issuecomment-3076374518) in [orangci/walls](https://github.com/orangci/walls)
-5. 💪 Opened PR [#3463](https://github.com/spicetify/cli/pull/3463) in [spicetify/cli](https://github.com/spicetify/cli)
+1. 💪 Opened PR [#475](https://github.com/Jean-Tinland/simple-bar/pull/475) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
+2. 🗣 Commented on [#1041](https://github.com/nix-darwin/nix-darwin/issues/1041#issuecomment-3090243163) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+3. 💪 Opened PR [#33](https://github.com/matadaniel/LazyVim-module/pull/33) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+4. 🗣 Commented on [#424582](https://github.com/NixOS/nixpkgs/pull/424582#issuecomment-3083179961) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#1](https://github.com/orangci/walls/issues/1#issuecomment-3076374518) in [orangci/walls](https://github.com/orangci/walls)
 <!--END_SECTION:activity-->
 
 ---
