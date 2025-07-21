@@ -4,11 +4,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#438](https://github.com/khcrysalis/Feather/issues/438) in [khcrysalis/Feather](https://github.com/khcrysalis/Feather)
-2. 💪 Opened PR [#476](https://github.com/Jean-Tinland/simple-bar/pull/476) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
-3. ❌ Closed PR [#475](https://github.com/Jean-Tinland/simple-bar/pull/475) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
-4. 💪 Opened PR [#475](https://github.com/Jean-Tinland/simple-bar/pull/475) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
-5. 🗣 Commented on [#1041](https://github.com/nix-darwin/nix-darwin/issues/1041#issuecomment-3090243163) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+1. 🗣 Commented on [#426361](https://github.com/NixOS/nixpkgs/pull/426361#issuecomment-3095126041) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ❗ Opened issue [#438](https://github.com/khcrysalis/Feather/issues/438) in [khcrysalis/Feather](https://github.com/khcrysalis/Feather)
+3. 💪 Opened PR [#476](https://github.com/Jean-Tinland/simple-bar/pull/476) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
+4. ❌ Closed PR [#475](https://github.com/Jean-Tinland/simple-bar/pull/475) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
+5. 💪 Opened PR [#475](https://github.com/Jean-Tinland/simple-bar/pull/475) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
 <!--END_SECTION:activity-->
 
 ---
