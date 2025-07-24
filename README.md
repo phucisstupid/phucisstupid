@@ -4,11 +4,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#426361](https://github.com/NixOS/nixpkgs/pull/426361#issuecomment-3095126041) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ❗ Opened issue [#438](https://github.com/khcrysalis/Feather/issues/438) in [khcrysalis/Feather](https://github.com/khcrysalis/Feather)
-3. 💪 Opened PR [#476](https://github.com/Jean-Tinland/simple-bar/pull/476) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
-4. ❌ Closed PR [#475](https://github.com/Jean-Tinland/simple-bar/pull/475) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
-5. 💪 Opened PR [#475](https://github.com/Jean-Tinland/simple-bar/pull/475) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
+1. 🗣 Commented on [#7192](https://github.com/nix-community/home-manager/issues/7192#issuecomment-3111823400) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. 🗣 Commented on [#267](https://github.com/joshmedeski/sesh/issues/267#issuecomment-3111816288) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+3. 🗣 Commented on [#426361](https://github.com/NixOS/nixpkgs/pull/426361#issuecomment-3095126041) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ❗ Opened issue [#438](https://github.com/khcrysalis/Feather/issues/438) in [khcrysalis/Feather](https://github.com/khcrysalis/Feather)
+5. 💪 Opened PR [#476](https://github.com/Jean-Tinland/simple-bar/pull/476) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
 <!--END_SECTION:activity-->
 
 ---
