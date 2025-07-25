@@ -4,11 +4,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1396](https://github.com/nix-darwin/nix-darwin/pull/1396#issuecomment-3114374773) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-2. 🗣 Commented on [#7192](https://github.com/nix-community/home-manager/issues/7192#issuecomment-3111823400) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. 🗣 Commented on [#267](https://github.com/joshmedeski/sesh/issues/267#issuecomment-3111816288) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
-4. 🗣 Commented on [#426361](https://github.com/NixOS/nixpkgs/pull/426361#issuecomment-3095126041) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ❗ Opened issue [#438](https://github.com/khcrysalis/Feather/issues/438) in [khcrysalis/Feather](https://github.com/khcrysalis/Feather)
+1. ❗ Opened issue [#443](https://github.com/folke/flash.nvim/issues/443) in [folke/flash.nvim](https://github.com/folke/flash.nvim)
+2. 🗣 Commented on [#1396](https://github.com/nix-darwin/nix-darwin/pull/1396#issuecomment-3114374773) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+3. 🗣 Commented on [#7192](https://github.com/nix-community/home-manager/issues/7192#issuecomment-3111823400) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. 🗣 Commented on [#267](https://github.com/joshmedeski/sesh/issues/267#issuecomment-3111816288) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+5. 🗣 Commented on [#426361](https://github.com/NixOS/nixpkgs/pull/426361#issuecomment-3095126041) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ---
