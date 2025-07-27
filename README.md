@@ -4,11 +4,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#428542](https://github.com/NixOS/nixpkgs/issues/428542) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#426361](https://github.com/NixOS/nixpkgs/pull/426361#issuecomment-3117810052) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❗ Opened issue [#443](https://github.com/folke/flash.nvim/issues/443) in [folke/flash.nvim](https://github.com/folke/flash.nvim)
-4. 🗣 Commented on [#1396](https://github.com/nix-darwin/nix-darwin/pull/1396#issuecomment-3114374773) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-5. 🗣 Commented on [#7192](https://github.com/nix-community/home-manager/issues/7192#issuecomment-3111823400) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 🗣 Commented on [#5537](https://github.com/LazyVim/LazyVim/pull/5537#issuecomment-3124480673) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+2. 🗣 Commented on [#3](https://github.com/matadaniel/LazyVim-module/pull/3#issuecomment-3124472207) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+3. ❗ Opened issue [#428542](https://github.com/NixOS/nixpkgs/issues/428542) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#426361](https://github.com/NixOS/nixpkgs/pull/426361#issuecomment-3117810052) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❗ Opened issue [#443](https://github.com/folke/flash.nvim/issues/443) in [folke/flash.nvim](https://github.com/folke/flash.nvim)
 <!--END_SECTION:activity-->
 
 ---
