@@ -4,11 +4,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#34](https://github.com/matadaniel/LazyVim-module/issues/34) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-2. 🔒 Closed issue [#443](https://github.com/folke/flash.nvim/issues/443) in [folke/flash.nvim](https://github.com/folke/flash.nvim)
-3. 🗣 Commented on [#5537](https://github.com/LazyVim/LazyVim/pull/5537#issuecomment-3124480673) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-4. 🗣 Commented on [#3](https://github.com/matadaniel/LazyVim-module/pull/3#issuecomment-3124472207) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-5. ❗ Opened issue [#428542](https://github.com/NixOS/nixpkgs/issues/428542) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#1731](https://github.com/catppuccin/userstyles/pull/1731#issuecomment-3134605514) in [catppuccin/userstyles](https://github.com/catppuccin/userstyles)
+2. ❗ Opened issue [#34](https://github.com/matadaniel/LazyVim-module/issues/34) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+3. 🔒 Closed issue [#443](https://github.com/folke/flash.nvim/issues/443) in [folke/flash.nvim](https://github.com/folke/flash.nvim)
+4. 🗣 Commented on [#5537](https://github.com/LazyVim/LazyVim/pull/5537#issuecomment-3124480673) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+5. 🗣 Commented on [#3](https://github.com/matadaniel/LazyVim-module/pull/3#issuecomment-3124472207) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
 <!--END_SECTION:activity-->
 
 ---
