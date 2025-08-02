@@ -4,11 +4,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/ThePrimeagen/anime/pull/13) in [ThePrimeagen/anime](https://github.com/ThePrimeagen/anime)
-2. 🗣 Commented on [#79](https://github.com/FelixKratz/dotfiles/pull/79#issuecomment-3146259084) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
-3. 🗣 Commented on [#118](https://github.com/FelixKratz/JankyBorders/issues/118#issuecomment-3146258283) in [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders)
-4. 🗣 Commented on [#7587](https://github.com/nix-community/home-manager/pull/7587#issuecomment-3143796592) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. 🗣 Commented on [#1731](https://github.com/catppuccin/userstyles/pull/1731#issuecomment-3134605514) in [catppuccin/userstyles](https://github.com/catppuccin/userstyles)
+1. 🗣 Commented on [#429934](https://github.com/NixOS/nixpkgs/pull/429934#issuecomment-3146561399) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ❌ Closed PR [#13](https://github.com/ThePrimeagen/anime/pull/13) in [ThePrimeagen/anime](https://github.com/ThePrimeagen/anime)
+3. 🗣 Commented on [#79](https://github.com/FelixKratz/dotfiles/pull/79#issuecomment-3146259084) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
+4. 🗣 Commented on [#118](https://github.com/FelixKratz/JankyBorders/issues/118#issuecomment-3146258283) in [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders)
+5. 🗣 Commented on [#7587](https://github.com/nix-community/home-manager/pull/7587#issuecomment-3143796592) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 <!--END_SECTION:activity-->
 
 ---
