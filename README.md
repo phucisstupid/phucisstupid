@@ -4,11 +4,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7587](https://github.com/nix-community/home-manager/pull/7587#issuecomment-3143796592) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. 🗣 Commented on [#1731](https://github.com/catppuccin/userstyles/pull/1731#issuecomment-3134605514) in [catppuccin/userstyles](https://github.com/catppuccin/userstyles)
-3. ❗ Opened issue [#34](https://github.com/matadaniel/LazyVim-module/issues/34) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-4. 🔒 Closed issue [#443](https://github.com/folke/flash.nvim/issues/443) in [folke/flash.nvim](https://github.com/folke/flash.nvim)
-5. 🗣 Commented on [#5537](https://github.com/LazyVim/LazyVim/pull/5537#issuecomment-3124480673) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+1. 🗣 Commented on [#79](https://github.com/FelixKratz/dotfiles/pull/79#issuecomment-3146259084) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
+2. 🗣 Commented on [#118](https://github.com/FelixKratz/JankyBorders/issues/118#issuecomment-3146258283) in [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders)
+3. 🗣 Commented on [#7587](https://github.com/nix-community/home-manager/pull/7587#issuecomment-3143796592) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. 🗣 Commented on [#1731](https://github.com/catppuccin/userstyles/pull/1731#issuecomment-3134605514) in [catppuccin/userstyles](https://github.com/catppuccin/userstyles)
+5. ❗ Opened issue [#34](https://github.com/matadaniel/LazyVim-module/issues/34) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
 <!--END_SECTION:activity-->
 
 ---
