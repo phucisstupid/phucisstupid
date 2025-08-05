@@ -1,6 +1,6 @@
 <h3 align="center">hi ^-^ 😻</h3>
 
-![GitHub Contribution Grid Snake (Dark)](https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/ctp-macchiato-pink.svg#gh-dark-mode-only)
+![GitHub Contribution Grid Snake (Dark)](https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/catppuccin-mocha.svg#gh-dark-mode-only)
 ![GitHub Contribution Grid Snake (Light)](https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ### Activities
