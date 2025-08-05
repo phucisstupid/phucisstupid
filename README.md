@@ -6,9 +6,10 @@
   <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=phucisstupid&show_icons=true&theme=catppuccin_mocha" />
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=phucisstupid&layout=compact&show_icons=true&theme=catppuccin_mocha" />
+### My Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=phucisstupid&show_icons=true&theme=catppuccin_mocha" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phucisstupid&layout=compact&theme=catppuccin_mocha&card_width=495" />
 </div>
 
 <br clear="both" />
