@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/joshmedeski/sesh/issues/267#issuecomment-3171122879) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
-2. 🔒 Closed issue [#267](https://github.com/joshmedeski/sesh/issues/267) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
-3. 🗣 Commented on [#6266](https://github.com/nix-community/home-manager/issues/6266#issuecomment-3153808820) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. 🔒 Closed issue [#18](https://github.com/phucisstupid/dotfiles/issues/18) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-5. ❗ Opened issue [#18](https://github.com/phucisstupid/dotfiles/issues/18) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+1. 🗣 Commented on [#432677](https://github.com/NixOS/nixpkgs/pull/432677#issuecomment-3174759072) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#267](https://github.com/joshmedeski/sesh/issues/267#issuecomment-3171122879) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+3. 🔒 Closed issue [#267](https://github.com/joshmedeski/sesh/issues/267) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+4. 🗣 Commented on [#6266](https://github.com/nix-community/home-manager/issues/6266#issuecomment-3153808820) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. 🔒 Closed issue [#18](https://github.com/phucisstupid/dotfiles/issues/18) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Stats
