@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#433263](https://github.com/NixOS/nixpkgs/issues/433263) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#7297](https://github.com/nix-community/home-manager/issues/7297#issuecomment-3176054236) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. 🗣 Commented on [#1561](https://github.com/nix-darwin/nix-darwin/pull/1561#issuecomment-3175143573) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-4. 🗣 Commented on [#432677](https://github.com/NixOS/nixpkgs/pull/432677#issuecomment-3174759072) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#267](https://github.com/joshmedeski/sesh/issues/267#issuecomment-3171122879) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+1. ❗ Opened issue [#1075](https://github.com/josh/lazy-nvim-nix/issues/1075) in [josh/lazy-nvim-nix](https://github.com/josh/lazy-nvim-nix)
+2. ❗ Opened issue [#433263](https://github.com/NixOS/nixpkgs/issues/433263) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#7297](https://github.com/nix-community/home-manager/issues/7297#issuecomment-3176054236) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. 🗣 Commented on [#1561](https://github.com/nix-darwin/nix-darwin/pull/1561#issuecomment-3175143573) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+5. 🗣 Commented on [#432677](https://github.com/NixOS/nixpkgs/pull/432677#issuecomment-3174759072) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ### Stats
