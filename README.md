@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#433263](https://github.com/NixOS/nixpkgs/issues/433263#issuecomment-3190390355) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ❗ Opened issue [#26](https://github.com/dedukun/relative-motions.yazi/issues/26) in [dedukun/relative-motions.yazi](https://github.com/dedukun/relative-motions.yazi)
-3. ❗ Opened issue [#1075](https://github.com/josh/lazy-nvim-nix/issues/1075) in [josh/lazy-nvim-nix](https://github.com/josh/lazy-nvim-nix)
-4. ❗ Opened issue [#433263](https://github.com/NixOS/nixpkgs/issues/433263) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#7297](https://github.com/nix-community/home-manager/issues/7297#issuecomment-3176054236) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 💪 Opened PR [#1214](https://github.com/spicetify/spicetify-themes/pull/1214) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
+2. 🗣 Commented on [#433263](https://github.com/NixOS/nixpkgs/issues/433263#issuecomment-3190390355) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗ Opened issue [#26](https://github.com/dedukun/relative-motions.yazi/issues/26) in [dedukun/relative-motions.yazi](https://github.com/dedukun/relative-motions.yazi)
+4. ❗ Opened issue [#1075](https://github.com/josh/lazy-nvim-nix/issues/1075) in [josh/lazy-nvim-nix](https://github.com/josh/lazy-nvim-nix)
+5. ❗ Opened issue [#433263](https://github.com/NixOS/nixpkgs/issues/433263) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ### Stats
