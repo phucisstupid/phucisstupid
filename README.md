@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Kcraft059/Nix-Config/pull/1#issuecomment-3209385569) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
-2. 💪 Opened PR [#1](https://github.com/Kcraft059/Nix-Config/pull/1) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
-3. 🗣 Commented on [#1237](https://github.com/nix-darwin/nix-darwin/issues/1237#issuecomment-3195013160) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-4. 🗣 Commented on [#1214](https://github.com/spicetify/spicetify-themes/pull/1214#issuecomment-3194079921) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
-5. 🗣 Commented on [#162](https://github.com/fcsonline/tmux-thumbs/pull/162#issuecomment-3190665456) in [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs)
+1. 🗣 Commented on [#2](https://github.com/Kcraft059/Nix-Config/pull/2#issuecomment-3209507053) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
+2. 💪 Opened PR [#2](https://github.com/Kcraft059/Nix-Config/pull/2) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
+3. 🗣 Commented on [#1](https://github.com/Kcraft059/Nix-Config/pull/1#issuecomment-3209385569) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
+4. 💪 Opened PR [#1](https://github.com/Kcraft059/Nix-Config/pull/1) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
+5. 🗣 Commented on [#1237](https://github.com/nix-darwin/nix-darwin/issues/1237#issuecomment-3195013160) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
 <!--END_SECTION:activity-->
 
 ### Stats
