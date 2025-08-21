@@ -1,4 +1,4 @@
-<h3 align="center">hi from 17yrs old kid^-^😻</h3>
+<h3 align="center">17yrs old kid github^-^😻</h3>
 
 ![GitHub Contribution Grid Snake (Dark)](https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/catppuccin-mocha.svg#gh-dark-mode-only)
 ![GitHub Contribution Grid Snake (Light)](https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake.svg#gh-light-mode-only)
