@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Kcraft059/sketchybar-config/pull/1) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-2. 🗣 Commented on [#2](https://github.com/Kcraft059/Nix-Config/pull/2#issuecomment-3209507053) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
-3. 💪 Opened PR [#2](https://github.com/Kcraft059/Nix-Config/pull/2) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
-4. 🗣 Commented on [#1](https://github.com/Kcraft059/Nix-Config/pull/1#issuecomment-3209385569) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
-5. 💪 Opened PR [#1](https://github.com/Kcraft059/Nix-Config/pull/1) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
+1. 🗣 Commented on [#1](https://github.com/Kcraft059/sketchybar-config/pull/1#issuecomment-3220432868) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+2. 💪 Opened PR [#1](https://github.com/Kcraft059/sketchybar-config/pull/1) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+3. 🗣 Commented on [#2](https://github.com/Kcraft059/Nix-Config/pull/2#issuecomment-3209507053) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
+4. 💪 Opened PR [#2](https://github.com/Kcraft059/Nix-Config/pull/2) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
+5. 🗣 Commented on [#1](https://github.com/Kcraft059/Nix-Config/pull/1#issuecomment-3209385569) in [Kcraft059/Nix-Config](https://github.com/Kcraft059/Nix-Config)
 <!--END_SECTION:activity-->
 
 ### Stats
