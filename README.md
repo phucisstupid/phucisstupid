@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1252](https://github.com/basecamp/omarchy/pull/1252) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-2. 💪 Opened PR [#1252](https://github.com/basecamp/omarchy/pull/1252) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-3. 💪 Opened PR [#1250](https://github.com/basecamp/omarchy/pull/1250) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-4. 💪 Opened PR [#4](https://github.com/Kcraft059/sketchybar-config/pull/4) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-5. 🗣 Commented on [#3](https://github.com/Kcraft059/sketchybar-config/issues/3#issuecomment-3226429357) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+1. 💪 Opened PR [#3498](https://github.com/spicetify/cli/pull/3498) in [spicetify/cli](https://github.com/spicetify/cli)
+2. ❌ Closed PR [#3463](https://github.com/spicetify/cli/pull/3463) in [spicetify/cli](https://github.com/spicetify/cli)
+3. ❌ Closed PR [#1252](https://github.com/basecamp/omarchy/pull/1252) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+4. 💪 Opened PR [#1252](https://github.com/basecamp/omarchy/pull/1252) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+5. 💪 Opened PR [#1250](https://github.com/basecamp/omarchy/pull/1250) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
 <!--END_SECTION:activity-->
 
 ### Stats
