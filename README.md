@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3498](https://github.com/spicetify/cli/pull/3498) in [spicetify/cli](https://github.com/spicetify/cli)
-2. ❌ Closed PR [#3463](https://github.com/spicetify/cli/pull/3463) in [spicetify/cli](https://github.com/spicetify/cli)
-3. ❌ Closed PR [#1252](https://github.com/basecamp/omarchy/pull/1252) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-4. 💪 Opened PR [#1252](https://github.com/basecamp/omarchy/pull/1252) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-5. 💪 Opened PR [#1250](https://github.com/basecamp/omarchy/pull/1250) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+1. ❌ Closed PR [#5](https://github.com/ThePrimeagen/daydream/pull/5) in [ThePrimeagen/daydream](https://github.com/ThePrimeagen/daydream)
+2. 🗣 Commented on [#1250](https://github.com/basecamp/omarchy/pull/1250#issuecomment-3236876074) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+3. 💪 Opened PR [#3498](https://github.com/spicetify/cli/pull/3498) in [spicetify/cli](https://github.com/spicetify/cli)
+4. ❌ Closed PR [#3463](https://github.com/spicetify/cli/pull/3463) in [spicetify/cli](https://github.com/spicetify/cli)
+5. ❌ Closed PR [#1252](https://github.com/basecamp/omarchy/pull/1252) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
 <!--END_SECTION:activity-->
 
 ### Stats
