@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1250](https://github.com/basecamp/omarchy/pull/1250#issuecomment-3238912544) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-2. 🗣 Commented on [#1250](https://github.com/basecamp/omarchy/pull/1250#issuecomment-3238872148) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-3. 🗣 Commented on [#346](https://github.com/basecamp/omarchy/pull/346#issuecomment-3238734969) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-4. ❌ Closed PR [#1310](https://github.com/basecamp/omarchy/pull/1310) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-5. 💪 Opened PR [#1310](https://github.com/basecamp/omarchy/pull/1310) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+1. 🗣 Commented on [#5772](https://github.com/starship/starship/pull/5772#issuecomment-3238962528) in [starship/starship](https://github.com/starship/starship)
+2. 🗣 Commented on [#1250](https://github.com/basecamp/omarchy/pull/1250#issuecomment-3238950771) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+3. 🎉 Merged PR [#1](https://github.com/phucisstupid/omarchy/pull/1) in [phucisstupid/omarchy](https://github.com/phucisstupid/omarchy)
+4. 🗣 Commented on [#1250](https://github.com/basecamp/omarchy/pull/1250#issuecomment-3238912544) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+5. 🗣 Commented on [#1250](https://github.com/basecamp/omarchy/pull/1250#issuecomment-3238872148) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
 <!--END_SECTION:activity-->
 
 ### Stats
