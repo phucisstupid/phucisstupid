@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1636](https://github.com/AstroNvim/astrocommunity/pull/1636) in [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity)
-2. ❌ Closed PR [#5](https://github.com/ThePrimeagen/daydream/pull/5) in [ThePrimeagen/daydream](https://github.com/ThePrimeagen/daydream)
-3. 🗣 Commented on [#1250](https://github.com/basecamp/omarchy/pull/1250#issuecomment-3236876074) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-4. 💪 Opened PR [#3498](https://github.com/spicetify/cli/pull/3498) in [spicetify/cli](https://github.com/spicetify/cli)
-5. ❌ Closed PR [#3463](https://github.com/spicetify/cli/pull/3463) in [spicetify/cli](https://github.com/spicetify/cli)
+1. 🗣 Commented on [#346](https://github.com/basecamp/omarchy/pull/346#issuecomment-3238734969) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+2. ❌ Closed PR [#1310](https://github.com/basecamp/omarchy/pull/1310) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+3. 💪 Opened PR [#1310](https://github.com/basecamp/omarchy/pull/1310) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+4. 💪 Opened PR [#1636](https://github.com/AstroNvim/astrocommunity/pull/1636) in [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity)
+5. ❌ Closed PR [#5](https://github.com/ThePrimeagen/daydream/pull/5) in [ThePrimeagen/daydream](https://github.com/ThePrimeagen/daydream)
 <!--END_SECTION:activity-->
 
 ### Stats
