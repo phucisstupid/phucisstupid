@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#439156](https://github.com/NixOS/nixpkgs/pull/439156) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#953](https://github.com/NotAShelf/nvf/issues/953#issuecomment-3239171286) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
-3. ❗ Opened issue [#222](https://github.com/khaneliman/khanelinix/issues/222) in [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix)
-4. 🗣 Commented on [#5772](https://github.com/starship/starship/pull/5772#issuecomment-3238962528) in [starship/starship](https://github.com/starship/starship)
-5. 🗣 Commented on [#1250](https://github.com/basecamp/omarchy/pull/1250#issuecomment-3238950771) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+1. 🗣 Commented on [#6998](https://github.com/nix-community/home-manager/issues/6998#issuecomment-3249371728) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. 💪 Opened PR [#439156](https://github.com/NixOS/nixpkgs/pull/439156) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#953](https://github.com/NotAShelf/nvf/issues/953#issuecomment-3239171286) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+4. ❗ Opened issue [#222](https://github.com/khaneliman/khanelinix/issues/222) in [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix)
+5. 🗣 Commented on [#5772](https://github.com/starship/starship/pull/5772#issuecomment-3238962528) in [starship/starship](https://github.com/starship/starship)
 <!--END_SECTION:activity-->
 
 ### Stats
