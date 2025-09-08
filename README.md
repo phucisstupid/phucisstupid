@@ -6,10 +6,10 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1636](https://github.com/AstroNvim/astrocommunity/pull/1636) in [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity)
-2. ❌ Closed PR [#37](https://github.com/Ultra-NX/UltraNX/pull/37) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+1. ❌ Closed PR [#1636](undefined) in [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity)
+2. ❌ Closed PR [#37](undefined) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
 3. 🗣 Commented on [#6998](https://github.com/nix-community/home-manager/issues/6998#issuecomment-3249371728) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. 💪 Opened PR [#439156](https://github.com/NixOS/nixpkgs/pull/439156) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#439156](undefined) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 5. 🗣 Commented on [#953](https://github.com/NotAShelf/nvf/issues/953#issuecomment-3239171286) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
 <!--END_SECTION:activity-->
 
