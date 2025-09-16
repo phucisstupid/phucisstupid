@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6424](https://github.com/LazyVim/LazyVim/issues/6424) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-2. 🗣 Commented on [#5762](https://github.com/LazyVim/LazyVim/issues/5762#issuecomment-3291227199) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-3. ❗ Opened issue [#46](https://github.com/REVENGE977/stremio-enhanced/issues/46) in [REVENGE977/stremio-enhanced](https://github.com/REVENGE977/stremio-enhanced)
-4. ❌ Closed PR [#1636](https://github.com/AstroNvim/astrocommunity/pull/1636) in [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity)
-5. ❌ Closed PR [#37](https://github.com/Ultra-NX/UltraNX/pull/37) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+1. 💪 Opened PR [#6425](https://github.com/LazyVim/LazyVim/pull/6425) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+2. ❗ Opened issue [#6424](https://github.com/LazyVim/LazyVim/issues/6424) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+3. 🗣 Commented on [#5762](https://github.com/LazyVim/LazyVim/issues/5762#issuecomment-3291227199) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+4. ❗ Opened issue [#46](https://github.com/REVENGE977/stremio-enhanced/issues/46) in [REVENGE977/stremio-enhanced](https://github.com/REVENGE977/stremio-enhanced)
+5. ❌ Closed PR [#1636](https://github.com/AstroNvim/astrocommunity/pull/1636) in [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity)
 <!--END_SECTION:activity-->
 
 ### Stats
