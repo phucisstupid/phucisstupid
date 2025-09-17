@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6431](https://github.com/LazyVim/LazyVim/pull/6431) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-2. 💪 Opened PR [#6425](https://github.com/LazyVim/LazyVim/pull/6425) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-3. ❗ Opened issue [#6424](https://github.com/LazyVim/LazyVim/issues/6424) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-4. 🗣 Commented on [#5762](https://github.com/LazyVim/LazyVim/issues/5762#issuecomment-3291227199) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-5. ❗ Opened issue [#46](https://github.com/REVENGE977/stremio-enhanced/issues/46) in [REVENGE977/stremio-enhanced](https://github.com/REVENGE977/stremio-enhanced)
+1. 🎉 Merged PR [#19](https://github.com/phucisstupid/dotfiles/pull/19) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+2. 🎉 Merged PR [#20](https://github.com/phucisstupid/dotfiles/pull/20) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+3. 🎉 Merged PR [#21](https://github.com/phucisstupid/dotfiles/pull/21) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+4. 🎉 Merged PR [#22](https://github.com/phucisstupid/dotfiles/pull/22) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+5. 💪 Opened PR [#6431](https://github.com/LazyVim/LazyVim/pull/6431) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 <!--END_SECTION:activity-->
 
 ### Stats
