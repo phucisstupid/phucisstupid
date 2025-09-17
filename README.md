@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/phucisstupid/dotfiles/pull/19) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-2. 🎉 Merged PR [#20](https://github.com/phucisstupid/dotfiles/pull/20) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-3. 🎉 Merged PR [#21](https://github.com/phucisstupid/dotfiles/pull/21) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-4. 🎉 Merged PR [#22](https://github.com/phucisstupid/dotfiles/pull/22) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-5. 💪 Opened PR [#6431](https://github.com/LazyVim/LazyVim/pull/6431) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+1. ❗ Opened issue [#3](https://github.com/makccr/wallpapers/issues/3) in [makccr/wallpapers](https://github.com/makccr/wallpapers)
+2. 🎉 Merged PR [#19](https://github.com/phucisstupid/dotfiles/pull/19) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+3. 🎉 Merged PR [#20](https://github.com/phucisstupid/dotfiles/pull/20) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+4. 🎉 Merged PR [#21](https://github.com/phucisstupid/dotfiles/pull/21) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+5. 🎉 Merged PR [#22](https://github.com/phucisstupid/dotfiles/pull/22) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Stats
