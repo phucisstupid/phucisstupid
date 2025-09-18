@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#725](https://github.com/catppuccin/nix/pull/725) in [catppuccin/nix](https://github.com/catppuccin/nix)
+1. 💪 Opened PR [#725](undefined) in [catppuccin/nix](https://github.com/catppuccin/nix)
 2. ❗ Opened issue [#3](https://github.com/makccr/wallpapers/issues/3) in [makccr/wallpapers](https://github.com/makccr/wallpapers)
-3. 🎉 Merged PR [#19](https://github.com/phucisstupid/dotfiles/pull/19) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-4. 🎉 Merged PR [#20](https://github.com/phucisstupid/dotfiles/pull/20) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-5. 🎉 Merged PR [#21](https://github.com/phucisstupid/dotfiles/pull/21) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+3. 💪 Opened PR [#6431](undefined) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+4. 💪 Opened PR [#6425](undefined) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+5.  Labeled issue [#6424](https://github.com/LazyVim/LazyVim/issues/6424) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 <!--END_SECTION:activity-->
 
 ### Stats
