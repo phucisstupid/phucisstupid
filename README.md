@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#725](https://github.com/catppuccin/nix/pull/725) in [catppuccin/nix](https://github.com/catppuccin/nix)
-2. ❗ Opened issue [#3](https://github.com/makccr/wallpapers/issues/3) in [makccr/wallpapers](https://github.com/makccr/wallpapers)
-3. 🎉 Merged PR [#19](https://github.com/phucisstupid/dotfiles/pull/19) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-4. 🎉 Merged PR [#20](https://github.com/phucisstupid/dotfiles/pull/20) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-5. 🎉 Merged PR [#21](https://github.com/phucisstupid/dotfiles/pull/21) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+1. 🗣 Commented on [#1075](https://github.com/josh/lazy-nvim-nix/issues/1075#issuecomment-3314574781) in [josh/lazy-nvim-nix](https://github.com/josh/lazy-nvim-nix)
+2. 💪 Opened PR [#725](https://github.com/catppuccin/nix/pull/725) in [catppuccin/nix](https://github.com/catppuccin/nix)
+3. ❗ Opened issue [#3](https://github.com/makccr/wallpapers/issues/3) in [makccr/wallpapers](https://github.com/makccr/wallpapers)
+4. 🎉 Merged PR [#19](https://github.com/phucisstupid/dotfiles/pull/19) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+5. 🎉 Merged PR [#20](https://github.com/phucisstupid/dotfiles/pull/20) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Stats
