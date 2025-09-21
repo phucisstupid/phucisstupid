@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6489](https://github.com/LazyVim/LazyVim/pull/6489) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-2. 💪 Opened PR [#6487](https://github.com/LazyVim/LazyVim/pull/6487) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-3. 🗣 Commented on [#5602](https://github.com/LazyVim/LazyVim/pull/5602#issuecomment-3315977967) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-4. 🗣 Commented on [#5953](https://github.com/LazyVim/LazyVim/pull/5953#issuecomment-3315975733) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-5. 🗣 Commented on [#5551](https://github.com/LazyVim/LazyVim/pull/5551#issuecomment-3315965919) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+1. 💪 Opened PR [#6491](https://github.com/LazyVim/LazyVim/pull/6491) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+2. 💪 Opened PR [#6489](https://github.com/LazyVim/LazyVim/pull/6489) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+3. 💪 Opened PR [#6487](https://github.com/LazyVim/LazyVim/pull/6487) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+4. 🗣 Commented on [#5602](https://github.com/LazyVim/LazyVim/pull/5602#issuecomment-3315977967) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+5. 🗣 Commented on [#5953](https://github.com/LazyVim/LazyVim/pull/5953#issuecomment-3315975733) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 <!--END_SECTION:activity-->
 
 ### Stats
