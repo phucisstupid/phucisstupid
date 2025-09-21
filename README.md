@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/davidsteinberger/dotfiles/pull/1) in [davidsteinberger/dotfiles](https://github.com/davidsteinberger/dotfiles)
-2. ❗ Opened issue [#6482](https://github.com/LazyVim/LazyVim/issues/6482) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-3. 🗣 Commented on [#1075](https://github.com/josh/lazy-nvim-nix/issues/1075#issuecomment-3314574781) in [josh/lazy-nvim-nix](https://github.com/josh/lazy-nvim-nix)
-4. 💪 Opened PR [#725](https://github.com/catppuccin/nix/pull/725) in [catppuccin/nix](https://github.com/catppuccin/nix)
-5. ❗ Opened issue [#3](https://github.com/makccr/wallpapers/issues/3) in [makccr/wallpapers](https://github.com/makccr/wallpapers)
+1. 💪 Opened PR [#6](https://github.com/pfassina/lazyvim-nix/pull/6) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
+2. 💪 Opened PR [#1](https://github.com/davidsteinberger/dotfiles/pull/1) in [davidsteinberger/dotfiles](https://github.com/davidsteinberger/dotfiles)
+3. ❗ Opened issue [#6482](https://github.com/LazyVim/LazyVim/issues/6482) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+4. 🗣 Commented on [#1075](https://github.com/josh/lazy-nvim-nix/issues/1075#issuecomment-3314574781) in [josh/lazy-nvim-nix](https://github.com/josh/lazy-nvim-nix)
+5. 💪 Opened PR [#725](https://github.com/catppuccin/nix/pull/725) in [catppuccin/nix](https://github.com/catppuccin/nix)
 <!--END_SECTION:activity-->
 
 ### Stats
