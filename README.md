@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](undefined) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-2. 💪 Opened PR [#8](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-3. 🗣 Commented on [#3](https://github.com/Kcraft059/sketchybar-config/issues/3#issuecomment-3334895763) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-4. 💪 Opened PR [#36](undefined) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-5. ❗ Opened issue [#9](https://github.com/pfassina/lazyvim-nix/issues/9) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
+1. 🗣 Commented on [#6489](https://github.com/LazyVim/LazyVim/pull/6489#issuecomment-3319055606) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+2. 🎉 Merged PR [#23](https://github.com/phucisstupid/dotfiles/pull/23) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+3. 💪 Opened PR [#6491](https://github.com/LazyVim/LazyVim/pull/6491) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+4. 💪 Opened PR [#6489](https://github.com/LazyVim/LazyVim/pull/6489) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+5. 💪 Opened PR [#6487](https://github.com/LazyVim/LazyVim/pull/6487) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 <!--END_SECTION:activity-->
 
 ### Stats
