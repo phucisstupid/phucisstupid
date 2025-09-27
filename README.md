@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/PhotonQuantum/flakes/pull/6) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-2. 💪 Opened PR [#8](https://github.com/Kcraft059/sketchybar-config/pull/8) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-3. 🗣 Commented on [#3](https://github.com/Kcraft059/sketchybar-config/issues/3#issuecomment-3334895763) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-4. 🗣 Commented on [#6489](https://github.com/LazyVim/LazyVim/pull/6489#issuecomment-3319055606) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-5. 🎉 Merged PR [#23](https://github.com/phucisstupid/dotfiles/pull/23) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+1. 💪 Opened PR [#4103](https://github.com/fmhy/edit/pull/4103) in [fmhy/edit](https://github.com/fmhy/edit)
+2. ❌ Closed PR [#6](https://github.com/PhotonQuantum/flakes/pull/6) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+3. 💪 Opened PR [#8](https://github.com/Kcraft059/sketchybar-config/pull/8) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+4. 🗣 Commented on [#3](https://github.com/Kcraft059/sketchybar-config/issues/3#issuecomment-3334895763) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+5. 🗣 Commented on [#6489](https://github.com/LazyVim/LazyVim/pull/6489#issuecomment-3319055606) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 <!--END_SECTION:activity-->
 
 ### Stats
