@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4103](https://github.com/fmhy/edit/pull/4103) in [fmhy/edit](https://github.com/fmhy/edit)
-2. ❌ Closed PR [#6](https://github.com/PhotonQuantum/flakes/pull/6) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-3. 💪 Opened PR [#8](https://github.com/Kcraft059/sketchybar-config/pull/8) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-4. 🗣 Commented on [#3](https://github.com/Kcraft059/sketchybar-config/issues/3#issuecomment-3334895763) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-5. 🗣 Commented on [#6489](https://github.com/LazyVim/LazyVim/pull/6489#issuecomment-3319055606) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+1. 🗣 Commented on [#2013](https://github.com/basecamp/omarchy/pull/2013#issuecomment-3343014991) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+2. 💪 Opened PR [#2032](https://github.com/basecamp/omarchy/pull/2032) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+3. 💪 Opened PR [#4103](https://github.com/fmhy/edit/pull/4103) in [fmhy/edit](https://github.com/fmhy/edit)
+4. ❌ Closed PR [#6](https://github.com/PhotonQuantum/flakes/pull/6) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+5. 💪 Opened PR [#8](https://github.com/Kcraft059/sketchybar-config/pull/8) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
 <!--END_SECTION:activity-->
 
 ### Stats
