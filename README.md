@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/SylvanFranklin/.config/issues/140#issuecomment-3355389763) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
-2. 🗣 Commented on [#9](https://github.com/pfassina/lazyvim-nix/issues/9#issuecomment-3354606619) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
-3. 🗣 Commented on [#7](https://github.com/ghuntley/cursed/pull/7#issuecomment-3347723325) in [ghuntley/cursed](https://github.com/ghuntley/cursed)
-4. 🗣 Commented on [#2013](https://github.com/basecamp/omarchy/pull/2013#issuecomment-3343014991) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-5. 💪 Opened PR [#2032](https://github.com/basecamp/omarchy/pull/2032) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+1. 🔒 Closed issue [#189](https://github.com/DeterminateSystems/flakehub-push/issues/189) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+2. 🔒 Closed issue [#190](https://github.com/DeterminateSystems/flakehub-push/issues/190) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+3. 🗣 Commented on [#140](https://github.com/SylvanFranklin/.config/issues/140#issuecomment-3355389763) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
+4. 🗣 Commented on [#9](https://github.com/pfassina/lazyvim-nix/issues/9#issuecomment-3354606619) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
+5. 🗣 Commented on [#7](https://github.com/ghuntley/cursed/pull/7#issuecomment-3347723325) in [ghuntley/cursed](https://github.com/ghuntley/cursed)
 <!--END_SECTION:activity-->
 
 ### Stats
