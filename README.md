@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/Kcraft059/sketchybar-config/issues/13) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-2. 💪 Opened PR [#12](https://github.com/Kcraft059/sketchybar-config/pull/12) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-3. ❗ Opened issue [#2](https://github.com/OsamaMahmood/dotfiles/issues/2) in [OsamaMahmood/dotfiles](https://github.com/OsamaMahmood/dotfiles)
-4. 💪 Opened PR [#1](https://github.com/OsamaMahmood/dotfiles/pull/1) in [OsamaMahmood/dotfiles](https://github.com/OsamaMahmood/dotfiles)
-5. 🗣 Commented on [#11](https://github.com/Kcraft059/sketchybar-config/issues/11#issuecomment-3357186240) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+1. 🗣 Commented on [#13](https://github.com/Kcraft059/sketchybar-config/issues/13#issuecomment-3367933526) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+2. ❗ Opened issue [#13](https://github.com/Kcraft059/sketchybar-config/issues/13) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+3. 💪 Opened PR [#12](https://github.com/Kcraft059/sketchybar-config/pull/12) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+4. ❗ Opened issue [#2](https://github.com/OsamaMahmood/dotfiles/issues/2) in [OsamaMahmood/dotfiles](https://github.com/OsamaMahmood/dotfiles)
+5. 💪 Opened PR [#1](https://github.com/OsamaMahmood/dotfiles/pull/1) in [OsamaMahmood/dotfiles](https://github.com/OsamaMahmood/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Stats
