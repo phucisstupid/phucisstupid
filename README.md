@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/imputnet/helium/issues/201#issuecomment-3369027090) in [imputnet/helium](https://github.com/imputnet/helium)
-2. 🗣 Commented on [#67](https://github.com/imputnet/helium-macos/issues/67#issuecomment-3368337433) in [imputnet/helium-macos](https://github.com/imputnet/helium-macos)
-3. 🗣 Commented on [#73](https://github.com/imputnet/helium-macos/pull/73#issuecomment-3368333791) in [imputnet/helium-macos](https://github.com/imputnet/helium-macos)
-4. 🗣 Commented on [#13](https://github.com/Kcraft059/sketchybar-config/issues/13#issuecomment-3367933526) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-5. ❗ Opened issue [#13](https://github.com/Kcraft059/sketchybar-config/issues/13) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+1. 🗣 Commented on [#201](https://github.com/imputnet/helium/issues/201#issuecomment-3369912780) in [imputnet/helium](https://github.com/imputnet/helium)
+2. 🗣 Commented on [#201](https://github.com/imputnet/helium/issues/201#issuecomment-3369027090) in [imputnet/helium](https://github.com/imputnet/helium)
+3. 🗣 Commented on [#67](https://github.com/imputnet/helium-macos/issues/67#issuecomment-3368337433) in [imputnet/helium-macos](https://github.com/imputnet/helium-macos)
+4. 🗣 Commented on [#73](https://github.com/imputnet/helium-macos/pull/73#issuecomment-3368333791) in [imputnet/helium-macos](https://github.com/imputnet/helium-macos)
+5. 🗣 Commented on [#13](https://github.com/Kcraft059/sketchybar-config/issues/13#issuecomment-3367933526) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
 <!--END_SECTION:activity-->
 
 ### Stats
