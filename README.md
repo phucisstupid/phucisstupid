@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/imputnet/helium/pull/68#issuecomment-3381523847) in [imputnet/helium](https://github.com/imputnet/helium)
-2. 🗣 Commented on [#13](https://github.com/Kcraft059/sketchybar-config/issues/13#issuecomment-3379594398) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-3. 🗣 Commented on [#201](https://github.com/imputnet/helium/issues/201#issuecomment-3369912780) in [imputnet/helium](https://github.com/imputnet/helium)
-4. 🗣 Commented on [#201](https://github.com/imputnet/helium/issues/201#issuecomment-3369027090) in [imputnet/helium](https://github.com/imputnet/helium)
-5. 🗣 Commented on [#67](https://github.com/imputnet/helium-macos/issues/67#issuecomment-3368337433) in [imputnet/helium-macos](https://github.com/imputnet/helium-macos)
+1. 💪 Opened PR [#49](https://github.com/hackr-sh/ghostty-shaders/pull/49) in [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders)
+2. 🗣 Commented on [#68](https://github.com/imputnet/helium/pull/68#issuecomment-3381523847) in [imputnet/helium](https://github.com/imputnet/helium)
+3. 🗣 Commented on [#13](https://github.com/Kcraft059/sketchybar-config/issues/13#issuecomment-3379594398) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+4. 🗣 Commented on [#201](https://github.com/imputnet/helium/issues/201#issuecomment-3369912780) in [imputnet/helium](https://github.com/imputnet/helium)
+5. 🗣 Commented on [#201](https://github.com/imputnet/helium/issues/201#issuecomment-3369027090) in [imputnet/helium](https://github.com/imputnet/helium)
 <!--END_SECTION:activity-->
 
 ### Stats
