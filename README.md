@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/Kcraft059/sketchybar-config/pull/20#issuecomment-3393167623) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-2. 🗣 Commented on [#20](https://github.com/Kcraft059/sketchybar-config/pull/20#issuecomment-3393159944) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-3. 🗣 Commented on [#20](https://github.com/Kcraft059/sketchybar-config/pull/20#issuecomment-3393122900) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-4. 🗣 Commented on [#20](https://github.com/Kcraft059/sketchybar-config/pull/20#issuecomment-3392949571) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-5. 🗣 Commented on [#20](https://github.com/Kcraft059/sketchybar-config/pull/20#issuecomment-3392567218) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+1. 🗣 Commented on [#17](https://github.com/Kcraft059/sketchybar-config/issues/17#issuecomment-3393256370) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+2. 🗣 Commented on [#20](https://github.com/Kcraft059/sketchybar-config/pull/20#issuecomment-3393254286) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+3. 🗣 Commented on [#6901](https://github.com/nix-community/home-manager/issues/6901#issuecomment-3393247129) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. 🗣 Commented on [#20](https://github.com/Kcraft059/sketchybar-config/pull/20#issuecomment-3393242949) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+5. 🗣 Commented on [#20](https://github.com/Kcraft059/sketchybar-config/pull/20#issuecomment-3393241398) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
 <!--END_SECTION:activity-->
 
 ### Stats
