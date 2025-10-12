@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#198](https://github.com/SylvanFranklin/.config/pull/198) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
-2. 💪 Opened PR [#197](https://github.com/SylvanFranklin/.config/pull/197) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
-3. 💪 Opened PR [#196](https://github.com/SylvanFranklin/.config/pull/196) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
-4. 🗣 Commented on [#450560](https://github.com/NixOS/nixpkgs/pull/450560#issuecomment-3393998607) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#450809](https://github.com/NixOS/nixpkgs/pull/450809#issuecomment-3393974746) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 💪 Opened PR [#17](https://github.com/FrizzleM/BreakFree/pull/17) in [FrizzleM/BreakFree](https://github.com/FrizzleM/BreakFree)
+2. 💪 Opened PR [#198](https://github.com/SylvanFranklin/.config/pull/198) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
+3. 💪 Opened PR [#197](https://github.com/SylvanFranklin/.config/pull/197) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
+4. 💪 Opened PR [#196](https://github.com/SylvanFranklin/.config/pull/196) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
+5. 🗣 Commented on [#450560](https://github.com/NixOS/nixpkgs/pull/450560#issuecomment-3393998607) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ### Stats
