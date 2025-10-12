@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#450809](https://github.com/NixOS/nixpkgs/pull/450809#issuecomment-3393974746) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#15](https://github.com/pfassina/lazyvim-nix/issues/15#issuecomment-3393904410) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
-3. 💪 Opened PR [#36](https://github.com/jkcoxson/idevice_pair/pull/36) in [jkcoxson/idevice_pair](https://github.com/jkcoxson/idevice_pair)
-4. 💪 Opened PR [#24](https://github.com/Kcraft059/sketchybar-config/pull/24) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-5. 🗣 Commented on [#13](https://github.com/Kcraft059/sketchybar-config/issues/13#issuecomment-3393397614) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+1. 🗣 Commented on [#450560](https://github.com/NixOS/nixpkgs/pull/450560#issuecomment-3393998607) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#450809](https://github.com/NixOS/nixpkgs/pull/450809#issuecomment-3393974746) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#15](https://github.com/pfassina/lazyvim-nix/issues/15#issuecomment-3393904410) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
+4. 💪 Opened PR [#36](https://github.com/jkcoxson/idevice_pair/pull/36) in [jkcoxson/idevice_pair](https://github.com/jkcoxson/idevice_pair)
+5. 💪 Opened PR [#24](https://github.com/Kcraft059/sketchybar-config/pull/24) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
 <!--END_SECTION:activity-->
 
 ### Stats
