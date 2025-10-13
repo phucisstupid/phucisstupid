@@ -1,10 +1,11 @@
 version: 2
 updates:
   - package-ecosystem: "github-actions"
-    directory: "/"
+    directory: "/" # root of your repo (where .github/workflows lives)
     schedule:
-      interval: "weekly" # or daily
+      interval: "weekly" # or "daily" if you want more frequent updates
     commit-message:
       prefix: "chore(deps)"
     labels:
       - "dependencies"
+      - "automerge"
