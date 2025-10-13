@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3395842848) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
-2. 💪 Opened PR [#17](https://github.com/FrizzleM/BreakFree/pull/17) in [FrizzleM/BreakFree](https://github.com/FrizzleM/BreakFree)
-3. 💪 Opened PR [#198](https://github.com/SylvanFranklin/.config/pull/198) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
-4. 💪 Opened PR [#197](https://github.com/SylvanFranklin/.config/pull/197) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
-5. 💪 Opened PR [#196](https://github.com/SylvanFranklin/.config/pull/196) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
+1. 🗣 Commented on [#13](https://github.com/Kcraft059/sketchybar-config/issues/13#issuecomment-3396260188) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+2. 🗣 Commented on [#13](https://github.com/Kcraft059/sketchybar-config/issues/13#issuecomment-3396226878) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+3. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3395842848) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
+4. 💪 Opened PR [#17](https://github.com/FrizzleM/BreakFree/pull/17) in [FrizzleM/BreakFree](https://github.com/FrizzleM/BreakFree)
+5. 💪 Opened PR [#198](https://github.com/SylvanFranklin/.config/pull/198) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
 <!--END_SECTION:activity-->
 
 ### Stats
