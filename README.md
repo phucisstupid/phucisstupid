@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3397252110) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
-2. 🗣 Commented on [#15](https://github.com/pfassina/lazyvim-nix/issues/15#issuecomment-3396923200) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
-3. 🗣 Commented on [#15](https://github.com/pfassina/lazyvim-nix/issues/15#issuecomment-3396752694) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
-4. 🗣 Commented on [#13](https://github.com/Kcraft059/sketchybar-config/issues/13#issuecomment-3396260188) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-5. 🗣 Commented on [#13](https://github.com/Kcraft059/sketchybar-config/issues/13#issuecomment-3396226878) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+1. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3397666169) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
+2. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3397252110) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
+3. 🗣 Commented on [#15](https://github.com/pfassina/lazyvim-nix/issues/15#issuecomment-3396923200) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
+4. 🗣 Commented on [#15](https://github.com/pfassina/lazyvim-nix/issues/15#issuecomment-3396752694) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
+5. 🗣 Commented on [#13](https://github.com/Kcraft059/sketchybar-config/issues/13#issuecomment-3396260188) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
 <!--END_SECTION:activity-->
 
 ### Stats
