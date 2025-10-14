@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3397781954) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
-2. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3397717713) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
-3. 💪 Opened PR [#4166](https://github.com/fmhy/edit/pull/4166) in [fmhy/edit](https://github.com/fmhy/edit)
-4. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3397666169) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
-5. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3397252110) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
+1. ❗ Opened issue [#1182](https://github.com/NotAShelf/nvf/issues/1182) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+2. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3397781954) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
+3. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3397717713) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
+4. 💪 Opened PR [#4166](https://github.com/fmhy/edit/pull/4166) in [fmhy/edit](https://github.com/fmhy/edit)
+5. 🗣 Commented on [#197](https://github.com/SylvanFranklin/.config/pull/197#issuecomment-3397666169) in [SylvanFranklin/.config](https://github.com/SylvanFranklin/.config)
 <!--END_SECTION:activity-->
 
 ### Stats
