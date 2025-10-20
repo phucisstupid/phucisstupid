@@ -7,7 +7,7 @@
 <!-- <!--START_SECTION:activity-->
 <!-- <!--END_SECTION:activity-->
 
-### Stats
+<!-- ### Stats -->
 
 <div>
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=phucisstupid&show_icons=true&theme=catppuccin_mocha"/>
