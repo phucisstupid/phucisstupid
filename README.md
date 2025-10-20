@@ -4,8 +4,8 @@
 ![GitHub Contribution Grid Snake (Light)](https://raw.githubusercontent.com/phucisstupid/phucisstupid/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!-- ### Activities -->
-<!-- <!--START_SECTION:activity--> -->
-<!-- <!--END_SECTION:activity--> -->
+<!-- <!--START_SECTION:activity-->
+<!-- <!--END_SECTION:activity-->
 
 ### Stats
 
