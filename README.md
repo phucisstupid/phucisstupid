@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5537](https://github.com/LazyVim/LazyVim/pull/5537#issuecomment-3402186931) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-2. ❌ Closed PR [#36](undefined) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-3. 💪 Opened PR [#39](undefined) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-4. 🗣 Commented on [#15](https://github.com/pfassina/lazyvim-nix/issues/15#issuecomment-3402113536) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
-5. 🗣 Commented on [#15](https://github.com/pfassina/lazyvim-nix/issues/15#issuecomment-3402101476) in [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix)
+1. ❗ Opened issue [#27](https://github.com/Kcraft059/sketchybar-config/issues/27) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+2. 💪 Opened PR [#26](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+3. ❌ Closed PR [#24](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+4. 🗣 Commented on [#5537](https://github.com/LazyVim/LazyVim/pull/5537#issuecomment-3402186931) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+5. ❌ Closed PR [#36](undefined) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
 <!--END_SECTION:activity-->
 
 ### Stats
