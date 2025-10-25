@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#454542](https://github.com/NixOS/nixpkgs/pull/454542#issuecomment-3442620492) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ❗ Opened issue [#27](https://github.com/Kcraft059/sketchybar-config/issues/27) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-3. 💪 Opened PR [#26](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-4. ❌ Closed PR [#24](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-5. 🗣 Commented on [#5537](https://github.com/LazyVim/LazyVim/pull/5537#issuecomment-3402186931) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+1. 🗣 Commented on [#6568](https://github.com/nix-community/home-manager/issues/6568#issuecomment-3446350277) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. 🗣 Commented on [#454542](https://github.com/NixOS/nixpkgs/pull/454542#issuecomment-3442620492) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗ Opened issue [#27](https://github.com/Kcraft059/sketchybar-config/issues/27) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+4. 💪 Opened PR [#26](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+5. ❌ Closed PR [#24](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
 <!--END_SECTION:activity-->
 
 ### Stats
