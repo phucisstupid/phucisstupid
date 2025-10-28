@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6568](https://github.com/nix-community/home-manager/issues/6568#issuecomment-3455613086) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. 🔒 Closed issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. ❗ Opened issue [#5](https://github.com/apptesters-org/AppTesters_Repo/issues/5) in [apptesters-org/AppTesters_Repo](https://github.com/apptesters-org/AppTesters_Repo)
-4. 🗣 Commented on [#6568](https://github.com/nix-community/home-manager/issues/6568#issuecomment-3446350277) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. 🗣 Commented on [#454542](https://github.com/NixOS/nixpkgs/pull/454542#issuecomment-3442620492) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#454542](https://github.com/NixOS/nixpkgs/pull/454542#issuecomment-3455709528) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#6568](https://github.com/nix-community/home-manager/issues/6568#issuecomment-3455613086) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. 🔒 Closed issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ❗ Opened issue [#5](https://github.com/apptesters-org/AppTesters_Repo/issues/5) in [apptesters-org/AppTesters_Repo](https://github.com/apptesters-org/AppTesters_Repo)
+5. 🗣 Commented on [#6568](https://github.com/nix-community/home-manager/issues/6568#issuecomment-3446350277) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 <!--END_SECTION:activity-->
 
 ### Stats
