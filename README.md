@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6568](https://github.com/nix-community/home-manager/issues/6568#issuecomment-3446350277) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. 🗣 Commented on [#454542](https://github.com/NixOS/nixpkgs/pull/454542#issuecomment-3442620492) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❗ Opened issue [#27](https://github.com/Kcraft059/sketchybar-config/issues/27) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-4. 💪 Opened PR [#26](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-5. ❌ Closed PR [#24](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+1. ❗ Opened issue [#5](https://github.com/apptesters-org/AppTesters_Repo/issues/5) in [apptesters-org/AppTesters_Repo](https://github.com/apptesters-org/AppTesters_Repo)
+2. 🗣 Commented on [#6568](https://github.com/nix-community/home-manager/issues/6568#issuecomment-3446350277) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. 🗣 Commented on [#454542](https://github.com/NixOS/nixpkgs/pull/454542#issuecomment-3442620492) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ❗ Opened issue [#27](https://github.com/Kcraft059/sketchybar-config/issues/27) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+5. 💪 Opened PR [#26](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
 <!--END_SECTION:activity-->
 
 ### Stats
