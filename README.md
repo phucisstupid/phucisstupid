@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
-2. 💪 Opened PR [#147](undefined) in [srid/nixos-unified](https://github.com/srid/nixos-unified)
-3. ❗ Opened issue [#3](https://github.com/Efterklang/sketchybar/issues/3) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
-4. 🗣 Commented on [#454542](https://github.com/NixOS/nixpkgs/pull/454542#issuecomment-3455709528) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#6568](https://github.com/nix-community/home-manager/issues/6568#issuecomment-3455613086) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 💪 Opened PR [#25](undefined) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+2. 💪 Opened PR [#28](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+3. 💪 Opened PR [#147](undefined) in [srid/nixos-unified](https://github.com/srid/nixos-unified)
+4. ❗ Opened issue [#3](https://github.com/Efterklang/sketchybar/issues/3) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
+5. 🗣 Commented on [#454542](https://github.com/NixOS/nixpkgs/pull/454542#issuecomment-3455709528) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ### Stats
