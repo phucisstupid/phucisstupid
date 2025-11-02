@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Efterklang/sketchybar/pull/19#issuecomment-3477961287) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
-2. 🗣 Commented on [#929](https://github.com/nix-community/stylix/issues/929#issuecomment-3477951949) in [nix-community/stylix](https://github.com/nix-community/stylix)
-3. 🗣 Commented on [#6](https://github.com/Efterklang/sketchybar/issues/6#issuecomment-3477946698) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
-4. 🗣 Commented on [#19](https://github.com/Efterklang/sketchybar/pull/19#issuecomment-3477944004) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
-5. 🗣 Commented on [#18](https://github.com/Efterklang/sketchybar/issues/18#issuecomment-3477922673) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
+1. 🔒 Closed issue [#6](https://github.com/Efterklang/sketchybar/issues/6) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
+2. 💪 Opened PR [#1](undefined) in [phucisstupid/sketchybar](https://github.com/phucisstupid/sketchybar)
+3. ❌ Closed PR [#19](undefined) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
+4. 🗣 Commented on [#19](https://github.com/Efterklang/sketchybar/pull/19#issuecomment-3477976750) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
+5. 🗣 Commented on [#19](https://github.com/Efterklang/sketchybar/pull/19#issuecomment-3477961287) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
 <!--END_SECTION:activity-->
 
 ### Stats
