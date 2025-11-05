@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20](https://github.com/Efterklang/sketchybar/issues/20) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
-2. 🗣 Commented on [#325](https://github.com/imputnet/helium/issues/325#issuecomment-3480674595) in [imputnet/helium](https://github.com/imputnet/helium)
-3. 🔒 Closed issue [#3](https://github.com/Efterklang/sketchybar/issues/3) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
-4. 🔒 Closed issue [#15](https://github.com/Efterklang/sketchybar/issues/15) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
-5. 🔒 Closed issue [#14](https://github.com/Efterklang/sketchybar/issues/14) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
+1. ❌ Closed PR [#20](undefined) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+2. ❗ Opened issue [#20](https://github.com/Efterklang/sketchybar/issues/20) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
+3. 🗣 Commented on [#325](https://github.com/imputnet/helium/issues/325#issuecomment-3480674595) in [imputnet/helium](https://github.com/imputnet/helium)
+4. 🔒 Closed issue [#3](https://github.com/Efterklang/sketchybar/issues/3) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
+5. 🔒 Closed issue [#15](https://github.com/Efterklang/sketchybar/issues/15) in [Efterklang/sketchybar](https://github.com/Efterklang/sketchybar)
 <!--END_SECTION:activity-->
 
 ### Stats
