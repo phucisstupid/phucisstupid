@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#619](https://github.com/dayanch96/YTLite/issues/619) in [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
-2. ❗ Opened issue [#619](https://github.com/dayanch96/YTLite/issues/619) in [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
-3. 🗣 Commented on [#9](https://github.com/Stremio/stremio-shell-ng/issues/9#issuecomment-3562068071) in [Stremio/stremio-shell-ng](https://github.com/Stremio/stremio-shell-ng)
-4. ❗ Opened issue [#51](https://github.com/leminlimez/Pocket-Poster/issues/51) in [leminlimez/Pocket-Poster](https://github.com/leminlimez/Pocket-Poster)
-5. 🗣 Commented on [#5](https://github.com/Kcraft059/sketchybar-config/issues/5#issuecomment-3494754774) in [Kcraft059/sketchybar-config](https://github.com/Kcraft059/sketchybar-config)
+1. ❌ Closed PR [#6895](undefined) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. ❌ Closed PR [#7086](undefined) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3.  Labeled issue [#619](https://github.com/dayanch96/YTLite/issues/619) in [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
+4. ❗ Opened issue [#619](https://github.com/dayanch96/YTLite/issues/619) in [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
+5. 🗣 Commented on [#9](https://github.com/Stremio/stremio-shell-ng/issues/9#issuecomment-3562068071) in [Stremio/stremio-shell-ng](https://github.com/Stremio/stremio-shell-ng)
 <!--END_SECTION:activity-->
 
 ### Stats
