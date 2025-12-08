@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6998](https://github.com/nix-community/home-manager/issues/6998#issuecomment-3605124071) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. ❌ Closed PR [#6895](undefined) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. ❌ Closed PR [#7086](undefined) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4.  Labeled issue [#619](https://github.com/dayanch96/YTLite/issues/619) in [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
-5. ❗ Opened issue [#619](https://github.com/dayanch96/YTLite/issues/619) in [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
+1. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-3625524827) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+2. 🗣 Commented on [#6998](https://github.com/nix-community/home-manager/issues/6998#issuecomment-3605124071) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. ❌ Closed PR [#6895](undefined) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ❌ Closed PR [#7086](undefined) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5.  Labeled issue [#619](https://github.com/dayanch96/YTLite/issues/619) in [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
 <!--END_SECTION:activity-->
 
 ### Stats
