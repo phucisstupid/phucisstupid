@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ourongxing/fast-enter.yazi/pull/4) in [ourongxing/fast-enter.yazi](https://github.com/ourongxing/fast-enter.yazi)
-2. 🗣 Commented on [#7912](https://github.com/nix-community/home-manager/issues/7912#issuecomment-3696123211) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. 🗣 Commented on [#5](https://github.com/apptesters-org/AppTesters_Repo/issues/5#issuecomment-3650305071) in [apptesters-org/AppTesters_Repo](https://github.com/apptesters-org/AppTesters_Repo)
-4. 🗣 Commented on [#465676](https://github.com/NixOS/nixpkgs/issues/465676#issuecomment-3638125308) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-3625524827) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1. ℹ️ Labeled issue [#479243](https://github.com/NixOS/nixpkgs/issues/479243) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ℹ️ Labeled issue [#479243](https://github.com/NixOS/nixpkgs/issues/479243) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗ Opened issue [#479243](https://github.com/NixOS/nixpkgs/issues/479243) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🎉 Merged PR [#4](https://github.com/ourongxing/fast-enter.yazi/pull/4) in [ourongxing/fast-enter.yazi](https://github.com/ourongxing/fast-enter.yazi)
+5. 🗣 Commented on [#7912](https://github.com/nix-community/home-manager/issues/7912#issuecomment-3696123211) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 <!--END_SECTION:activity-->
 
 ### Stats
