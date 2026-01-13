@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#479243](https://github.com/NixOS/nixpkgs/issues/479243) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ℹ️ Labeled issue [#479243](https://github.com/NixOS/nixpkgs/issues/479243) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. ❗ Opened issue [#9](https://github.com/apptesters-org/AppTesters_Repo/issues/9) in [apptesters-org/AppTesters_Repo](https://github.com/apptesters-org/AppTesters_Repo)
+2. 🔒 Closed issue [#479243](https://github.com/NixOS/nixpkgs/issues/479243) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 3. ℹ️ Labeled issue [#479243](https://github.com/NixOS/nixpkgs/issues/479243) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. ❗ Opened issue [#479243](https://github.com/NixOS/nixpkgs/issues/479243) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🎉 Merged PR [#4](https://github.com/ourongxing/fast-enter.yazi/pull/4) in [ourongxing/fast-enter.yazi](https://github.com/ourongxing/fast-enter.yazi)
+4. ℹ️ Labeled issue [#479243](https://github.com/NixOS/nixpkgs/issues/479243) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❗ Opened issue [#479243](https://github.com/NixOS/nixpkgs/issues/479243) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 ### Stats
