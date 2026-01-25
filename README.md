@@ -25,8 +25,8 @@
 ### Stats
 
 <div>
-  <img width=400 src="https://github-readme-stats-fast.vercel.app/api?username=phucisstupid&show_icons=true&theme=catppuccin_mocha&hide_border=true"/>
-  <img width=400 src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=phucisstupid&layout=compact&theme=catppuccin_mocha&card_width=395&hide_border=true"/>
+  <img width=400 src="./profile/stats.svg"/>
+  <img width=400 src="./profile/top-langs.svg"/>
 </div>
 
 <sub>If you enjoy what I do please 🌟 Star my repos, 💕 Follow me
