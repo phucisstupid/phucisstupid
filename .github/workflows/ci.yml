@@ -38,7 +38,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=catppuccin_mocha&hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&card_width=395&theme=catppuccin_mocha&hide_border=true
           path: src/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
