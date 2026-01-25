@@ -25,8 +25,8 @@
 ### Stats
 
 <div>
-  <img width=400 src="./profile/stats.svg"/>
-  <img width=400 src="./profile/top-langs.svg"/>
+  <img width=400 src="./src/stats.svg"/>
+  <img width=400 src="./src/top-langs.svg"/>
 </div>
 
 <sub>If you enjoy what I do please 🌟 Star my repos, 💕 Follow me
