@@ -19,5 +19,4 @@
   <img width=400 src="./src/top-langs.svg"/>
 </div>
 
-<sub>If you enjoy what I do please 🌟 Star my repos, 💕 Follow me
-[@phucisstupid](https://github.com/phucisstupid). Your support means a lot! 🥰
+<sub>If you enjoy what I do please 🌟 Star my repos, 💕 Follow me [@phucisstupid](https://github.com/phucisstupid). Your support means a lot! 🥰</sub>
