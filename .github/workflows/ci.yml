@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 * * * *"  # This runs once every hour
 
 jobs:
   build:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@main
 
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate snake
         uses: Platane/snk@main
         with:
           github_user_name: ${{ github.repository_owner }}
