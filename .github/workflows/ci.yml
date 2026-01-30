@@ -45,6 +45,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add src
+          git add .
           git commit -m "Update README cards" || exit 0
           git push origin main
