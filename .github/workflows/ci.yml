@@ -18,7 +18,7 @@ jobs:
         uses: Platane/snk@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: src/catppuccin-mocha.svg?color_snake=#f5c2e7&color_dots=#312c42,#62537f,#8570a6,#a88bcf,#cba6f7
+          outputs: catppuccin-mocha.svg?color_snake=#f5c2e7&color_dots=#312c42,#62537f,#8570a6,#a88bcf,#cba6f7
 
       - name: Generate readme activities
         uses: jamesgeorge007/github-activity-readme@master
@@ -30,7 +30,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_mocha&hide_border=true
-          path: src/stats.svg
+          path: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
@@ -38,7 +38,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&card_width=395&theme=catppuccin_mocha&hide_border=true
-          path: src/top-langs.svg
+          path: top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
