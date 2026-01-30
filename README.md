@@ -1,6 +1,6 @@
 <h3 align="center">Certified nonsense profile readme</h3>
 
-![GitHub Contribution Grid Snake (Dark)](./catppuccin-mocha.svg)
+![Contribution Grid Snake (Dark)](./catppuccin-mocha.svg)
 
 ### Activities
 
