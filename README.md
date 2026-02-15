@@ -15,7 +15,7 @@
 
 ### Stats
 
-<div align="center">
+<div>
   <!-- Light mode -->
   <img width="400" src="./stats-light.svg#gh-light-mode-only" />
   <img width="400" src="./top-langs-light.svg#gh-light-mode-only" />
