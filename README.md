@@ -14,4 +14,4 @@
   <img width=400 src="./top-langs.svg"/>
 </div>
 
-<sub>If you enjoy what I do please 🌟 Star my repos, 💕 Follow me [@phucisstupid](https://github.com/phucisstupid). Your support means a lot! 🥰</sub>
+<sub>If you enjoy what I do please 🌟 Star my repos, 💕 Follow me [@solana8800](https://github.com/solana8800). Your support means a lot! 🥰</sub>
