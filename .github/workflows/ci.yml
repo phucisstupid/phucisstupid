@@ -28,20 +28,38 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate stats card
+      # -------- DARK --------
+      - name: Generate stats card (dark)
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_mocha&hide_border=true
-          path: stats.svg
+          path: stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate top languages card (dark)
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&card_width=395&theme=catppuccin_mocha&hide_border=true
-          path: top-langs.svg
+          path: top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------- LIGHT --------
+      - name: Generate stats card (light)
+        uses: readme-tools/github-readme-stats-action@main
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_latte&hide_border=true
+          path: stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate top languages card (light)
+        uses: readme-tools/github-readme-stats-action@main
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&card_width=395&theme=catppuccin_latte&hide_border=true
+          path: top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
