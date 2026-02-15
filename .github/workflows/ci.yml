@@ -19,7 +19,9 @@ jobs:
         uses: Platane/snk@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: snake-catppuccin-mocha.svg?color_snake=#f5c2e7&color_dots=#312c42,#62537f,#8570a6,#a88bcf,#cba6f7
+          outputs: |
+            snake-catppuccin-mocha.svg?color_snake=#f5c2e7&color_dots=#312c42,#62537f,#8570a6,#a88bcf,#cba6f7
+            snake-github-light.svg?palette=github-light
 
       - name: Generate readme activities
         uses: jamesgeorge007/github-activity-readme@master
