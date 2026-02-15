@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">phuclee's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 136, Total Commits  (last year) : 1689, Total PRs: 131, Total Issues: 146, Contributed to (last year): 89</desc>
+        <desc id="descId">Total Stars Earned: 136, Total Commits  (last year) : 1693, Total PRs: 131, Total Issues: 146, Contributed to (last year): 89</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 40.62103692920455;
+        stroke-dashoffset: 40.61676258602449;
       }
     }
   
