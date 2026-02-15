@@ -15,9 +15,14 @@
 
 ### Stats
 
-<div>
-  <img width=400 src="./stats.svg"/>
-  <img width=400 src="./top-langs.svg"/>
+<div align="center">
+  <!-- Light mode -->
+  <img width="400" src="./stats-github-light.svg#gh-light-mode-only" />
+  <img width="400" src="./top-langs-github-light.svg#gh-light-mode-only" />
+
+  <!-- Dark mode -->
+  <img width="400" src="./stats-catppuccin-mocha.svg#gh-dark-mode-only" />
+  <img width="400" src="./top-langs-catppuccin-mocha.svg#gh-dark-mode-only" />
 </div>
 
 <sub>If you enjoy what I do please 🌟 Star my repos, 💕 Follow me [@phucisstupid](https://github.com/phucisstupid). Your support means a lot! 🥰</sub>
