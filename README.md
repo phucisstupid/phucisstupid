@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/omacom-io/omamac/pull/2#issuecomment-3910437292) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
-2. 🗣 Commented on [#2](https://github.com/omacom-io/omamac/pull/2#issuecomment-3910429779) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
-3. 💪 Opened PR [#2](https://github.com/omacom-io/omamac/pull/2) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
-4. 💪 Opened PR [#2](https://github.com/langeval/langeval/pull/2) in [langeval/langeval](https://github.com/langeval/langeval)
-5. 💪 Opened PR [#1](https://github.com/langeval/langeval/pull/1) in [langeval/langeval](https://github.com/langeval/langeval)
+1. ❌ Closed PR [#1](https://github.com/solana8800/solana8800/pull/1) in [solana8800/solana8800](https://github.com/solana8800/solana8800)
+2. 🗣 Commented on [#2](https://github.com/omacom-io/omamac/pull/2#issuecomment-3910437292) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
+3. 🗣 Commented on [#2](https://github.com/omacom-io/omamac/pull/2#issuecomment-3910429779) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
+4. 💪 Opened PR [#2](https://github.com/omacom-io/omamac/pull/2) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
+5. 💪 Opened PR [#2](https://github.com/langeval/langeval/pull/2) in [langeval/langeval](https://github.com/langeval/langeval)
 <!--END_SECTION:activity-->
 
 ### Stats
