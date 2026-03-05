@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/solana8800/solana8800/pull/1) in [solana8800/solana8800](https://github.com/solana8800/solana8800)
-2. 🗣 Commented on [#2](https://github.com/omacom-io/omamac/pull/2#issuecomment-3910437292) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
-3. 🗣 Commented on [#2](https://github.com/omacom-io/omamac/pull/2#issuecomment-3910429779) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
-4. 💪 Opened PR [#2](https://github.com/omacom-io/omamac/pull/2) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
-5. 💪 Opened PR [#2](https://github.com/solana8800/langeval/pull/2) in [solana8800/langeval](https://github.com/solana8800/langeval)
+1. ❗ Opened issue [#1029](https://github.com/imputnet/helium/issues/1029) in [imputnet/helium](https://github.com/imputnet/helium)
+2. ❌ Closed PR [#1](https://github.com/solana8800/solana8800/pull/1) in [solana8800/solana8800](https://github.com/solana8800/solana8800)
+3. 🗣 Commented on [#2](https://github.com/omacom-io/omamac/pull/2#issuecomment-3910437292) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
+4. 🗣 Commented on [#2](https://github.com/omacom-io/omamac/pull/2#issuecomment-3910429779) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
+5. 💪 Opened PR [#2](https://github.com/omacom-io/omamac/pull/2) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
 <!--END_SECTION:activity-->
 
 ### Stats
