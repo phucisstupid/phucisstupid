@@ -6,9 +6,9 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39](https://github.com/phucisstupid/dotfiles/pull/39) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-2. ❗ Opened issue [#1029](https://github.com/imputnet/helium/issues/1029) in [imputnet/helium](https://github.com/imputnet/helium)
-3. 🗣 Commented on [#2](https://github.com/omacom-io/omamac/pull/2#issuecomment-3910437292) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
+1. 💪 Opened PR [#4942](https://github.com/fmhy/edit/pull/4942) in [fmhy/edit](https://github.com/fmhy/edit)
+2. ❌ Closed PR [#39](https://github.com/phucisstupid/dotfiles/pull/39) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+3. ❗ Opened issue [#1029](https://github.com/imputnet/helium/issues/1029) in [imputnet/helium](https://github.com/imputnet/helium)
 4. 🗣 Commented on [#2](https://github.com/omacom-io/omamac/pull/2#issuecomment-3910429779) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
 5. 💪 Opened PR [#2](https://github.com/omacom-io/omamac/pull/2) in [omacom-io/omamac](https://github.com/omacom-io/omamac)
 <!--END_SECTION:activity-->
