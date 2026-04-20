@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/phucisstupid/eyebreak/pull/5) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
-2. 🎉 Merged PR [#6](https://github.com/phucisstupid/eyebreak/pull/6) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
-3. 💪 Opened PR [#6](https://github.com/phucisstupid/eyebreak/pull/6) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
-4. 💪 Opened PR [#5](https://github.com/phucisstupid/eyebreak/pull/5) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
-5. 🗣 Commented on [#577](https://github.com/catppuccin/tmux/pull/577#issuecomment-4272691368) in [catppuccin/tmux](https://github.com/catppuccin/tmux)
+1. 💪 Opened PR [#241](https://github.com/JuliusBrussee/caveman/pull/241) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+2. 🎉 Merged PR [#5](https://github.com/phucisstupid/eyebreak/pull/5) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+3. 🎉 Merged PR [#6](https://github.com/phucisstupid/eyebreak/pull/6) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+4. 💪 Opened PR [#6](https://github.com/phucisstupid/eyebreak/pull/6) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+5. 💪 Opened PR [#5](https://github.com/phucisstupid/eyebreak/pull/5) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
 <!--END_SECTION:activity-->
 
 ### Stats
