@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/phucisstupid/eyebreak/pull/30) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
-2. ❌ Closed PR [#25](https://github.com/phucisstupid/dotfiles/pull/25) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-3. 🎉 Merged PR [#44](https://github.com/phucisstupid/dotfiles/pull/44) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-4. 💪 Opened PR [#44](https://github.com/phucisstupid/dotfiles/pull/44) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-5. 💪 Opened PR [#29](https://github.com/phucisstupid/eyebreak/pull/29) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+1. 💪 Opened PR [#31](https://github.com/phucisstupid/eyebreak/pull/31) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+2. ❌ Closed PR [#15](https://github.com/phucisstupid/eyebreak/pull/15) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+3. ❌ Closed PR [#12](https://github.com/phucisstupid/eyebreak/pull/12) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+4. ❌ Closed PR [#14](https://github.com/phucisstupid/eyebreak/pull/14) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+5. ❌ Closed PR [#10](https://github.com/phucisstupid/eyebreak/pull/10) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
 <!--END_SECTION:activity-->
 
 ### Stats
