@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#296174](https://github.com/NixOS/nixpkgs/pull/296174#issuecomment-4345544875) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🎉 Merged PR [#31](https://github.com/phucisstupid/eyebreak/pull/31) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
-3. 💪 Opened PR [#31](https://github.com/phucisstupid/eyebreak/pull/31) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
-4. ❌ Closed PR [#15](https://github.com/phucisstupid/eyebreak/pull/15) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
-5. ❌ Closed PR [#12](https://github.com/phucisstupid/eyebreak/pull/12) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+1. 💪 Opened PR [#45](https://github.com/phucisstupid/dotfiles/pull/45) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+2. 🗣 Commented on [#296174](https://github.com/NixOS/nixpkgs/pull/296174#issuecomment-4345544875) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🎉 Merged PR [#31](https://github.com/phucisstupid/eyebreak/pull/31) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+4. 💪 Opened PR [#31](https://github.com/phucisstupid/eyebreak/pull/31) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+5. ❌ Closed PR [#15](https://github.com/phucisstupid/eyebreak/pull/15) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
 <!--END_SECTION:activity-->
 
 ### Stats
