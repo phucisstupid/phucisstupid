@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1459](https://github.com/imputnet/helium/issues/1459#issuecomment-4507486278) in [imputnet/helium](https://github.com/imputnet/helium)
-2. 💪 Opened PR [#45](https://github.com/phucisstupid/dotfiles/pull/45) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-3. 🗣 Commented on [#296174](https://github.com/NixOS/nixpkgs/pull/296174#issuecomment-4345544875) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🎉 Merged PR [#31](https://github.com/phucisstupid/eyebreak/pull/31) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
-5. 💪 Opened PR [#31](https://github.com/phucisstupid/eyebreak/pull/31) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
+1. 💪 Opened PR [#46](https://github.com/phucisstupid/dotfiles/pull/46) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+2. 🗣 Commented on [#1459](https://github.com/imputnet/helium/issues/1459#issuecomment-4507486278) in [imputnet/helium](https://github.com/imputnet/helium)
+3. 💪 Opened PR [#45](https://github.com/phucisstupid/dotfiles/pull/45) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+4. 🗣 Commented on [#296174](https://github.com/NixOS/nixpkgs/pull/296174#issuecomment-4345544875) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🎉 Merged PR [#31](https://github.com/phucisstupid/eyebreak/pull/31) in [phucisstupid/eyebreak](https://github.com/phucisstupid/eyebreak)
 <!--END_SECTION:activity-->
 
 ### Stats
