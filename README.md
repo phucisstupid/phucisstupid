@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/dedukun/relative-motions.yazi/pull/32#issuecomment-4531824631) in [dedukun/relative-motions.yazi](https://github.com/dedukun/relative-motions.yazi)
-2. 💪 Opened PR [#46](https://github.com/phucisstupid/dotfiles/pull/46) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-3. 🗣 Commented on [#1459](https://github.com/imputnet/helium/issues/1459#issuecomment-4507486278) in [imputnet/helium](https://github.com/imputnet/helium)
-4. 💪 Opened PR [#45](https://github.com/phucisstupid/dotfiles/pull/45) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-5. 🗣 Commented on [#296174](https://github.com/NixOS/nixpkgs/pull/296174#issuecomment-4345544875) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 💪 Opened PR [#224](https://github.com/Lum1104/Understand-Anything/pull/224) in [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+2. 🗣 Commented on [#32](https://github.com/dedukun/relative-motions.yazi/pull/32#issuecomment-4531824631) in [dedukun/relative-motions.yazi](https://github.com/dedukun/relative-motions.yazi)
+3. 💪 Opened PR [#46](https://github.com/phucisstupid/dotfiles/pull/46) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+4. 🗣 Commented on [#1459](https://github.com/imputnet/helium/issues/1459#issuecomment-4507486278) in [imputnet/helium](https://github.com/imputnet/helium)
+5. 💪 Opened PR [#45](https://github.com/phucisstupid/dotfiles/pull/45) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Stats
