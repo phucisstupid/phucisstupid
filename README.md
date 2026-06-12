@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#45](https://github.com/phucisstupid/dotfiles/pull/45) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-2. 💪 Opened PR [#224](https://github.com/Egonex-AI/Understand-Anything/pull/224) in [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
-3. 🗣 Commented on [#32](https://github.com/dedukun/relative-motions.yazi/pull/32#issuecomment-4531824631) in [dedukun/relative-motions.yazi](https://github.com/dedukun/relative-motions.yazi)
-4. 💪 Opened PR [#46](https://github.com/phucisstupid/dotfiles/pull/46) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-5. 🗣 Commented on [#1459](https://github.com/imputnet/helium/issues/1459#issuecomment-4507486278) in [imputnet/helium](https://github.com/imputnet/helium)
+1. 🗣 Commented on [#325](https://github.com/imputnet/helium/issues/325#issuecomment-4687687281) in [imputnet/helium](https://github.com/imputnet/helium)
+2. ❌ Closed PR [#45](https://github.com/phucisstupid/dotfiles/pull/45) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+3. 💪 Opened PR [#224](https://github.com/Egonex-AI/Understand-Anything/pull/224) in [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
+4. 🗣 Commented on [#32](https://github.com/dedukun/relative-motions.yazi/pull/32#issuecomment-4531824631) in [dedukun/relative-motions.yazi](https://github.com/dedukun/relative-motions.yazi)
+5. 💪 Opened PR [#46](https://github.com/phucisstupid/dotfiles/pull/46) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Stats
