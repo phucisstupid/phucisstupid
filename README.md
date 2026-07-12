@@ -6,10 +6,10 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/phucisstupid/dotfiles/pull/46) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-2. 🗣 Commented on [#325](https://github.com/imputnet/helium/issues/325#issuecomment-4687687281) in [imputnet/helium](https://github.com/imputnet/helium)
-3. ❌ Closed PR [#45](https://github.com/phucisstupid/dotfiles/pull/45) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-4. 🗣 Commented on [#32](https://github.com/dedukun/relative-motions.yazi/pull/32#issuecomment-4531824631) in [dedukun/relative-motions.yazi](https://github.com/dedukun/relative-motions.yazi)
+1. ❌ Closed PR [#89](https://github.com/srid/nixos-config/pull/89) in [srid/nixos-config](https://github.com/srid/nixos-config)
+2. 🗣 Commented on [#2266](https://github.com/catppuccin/userstyles/pull/2266#issuecomment-4949966660) in [catppuccin/userstyles](https://github.com/catppuccin/userstyles)
+3. ❌ Closed PR [#46](https://github.com/phucisstupid/dotfiles/pull/46) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+4. 🗣 Commented on [#325](https://github.com/imputnet/helium/issues/325#issuecomment-4687687281) in [imputnet/helium](https://github.com/imputnet/helium)
 5. 💪 Opened PR [#46](https://github.com/phucisstupid/dotfiles/pull/46) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
 <!--END_SECTION:activity-->
 
