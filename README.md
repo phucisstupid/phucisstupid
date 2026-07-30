@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/abenz1267/elephant/pull/231#issuecomment-5127366412) in [abenz1267/elephant](https://github.com/abenz1267/elephant)
-2. 🗣 Commented on [#6372](https://github.com/basecamp/omarchy/pull/6372#issuecomment-5078489531) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-3. ❌ Closed PR [#89](https://github.com/srid/nixos-config/pull/89) in [srid/nixos-config](https://github.com/srid/nixos-config)
-4. 🗣 Commented on [#2266](https://github.com/catppuccin/userstyles/pull/2266#issuecomment-4949966660) in [catppuccin/userstyles](https://github.com/catppuccin/userstyles)
-5. 💪 Opened PR [#46](https://github.com/phucisstupid/dotfiles/pull/46) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+1. 🗣 Commented on [#2057](https://github.com/nikitabobko/AeroSpace/pull/2057#issuecomment-5129586954) in [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
+2. 🗣 Commented on [#231](https://github.com/abenz1267/elephant/pull/231#issuecomment-5127366412) in [abenz1267/elephant](https://github.com/abenz1267/elephant)
+3. 🗣 Commented on [#6372](https://github.com/basecamp/omarchy/pull/6372#issuecomment-5078489531) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+4. ❌ Closed PR [#89](https://github.com/srid/nixos-config/pull/89) in [srid/nixos-config](https://github.com/srid/nixos-config)
+5. 🗣 Commented on [#2266](https://github.com/catppuccin/userstyles/pull/2266#issuecomment-4949966660) in [catppuccin/userstyles](https://github.com/catppuccin/userstyles)
 <!--END_SECTION:activity-->
 
 ### Stats
