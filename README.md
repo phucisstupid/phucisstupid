@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#85](https://github.com/sandwichfarm/hyprexpo/issues/85) in [sandwichfarm/hyprexpo](https://github.com/sandwichfarm/hyprexpo)
-2. 🗣 Commented on [#2057](https://github.com/nikitabobko/AeroSpace/pull/2057#issuecomment-5129586954) in [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
-3. 🗣 Commented on [#231](https://github.com/abenz1267/elephant/pull/231#issuecomment-5127366412) in [abenz1267/elephant](https://github.com/abenz1267/elephant)
-4. 🗣 Commented on [#6372](https://github.com/basecamp/omarchy/pull/6372#issuecomment-5078489531) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-5. ❌ Closed PR [#89](https://github.com/srid/nixos-config/pull/89) in [srid/nixos-config](https://github.com/srid/nixos-config)
+1. 🗣 Commented on [#672](https://github.com/Alexays/Waybar/issues/672#issuecomment-5144169114) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+2. ❗ Opened issue [#85](https://github.com/sandwichfarm/hyprexpo/issues/85) in [sandwichfarm/hyprexpo](https://github.com/sandwichfarm/hyprexpo)
+3. 🗣 Commented on [#2057](https://github.com/nikitabobko/AeroSpace/pull/2057#issuecomment-5129586954) in [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
+4. 🗣 Commented on [#231](https://github.com/abenz1267/elephant/pull/231#issuecomment-5127366412) in [abenz1267/elephant](https://github.com/abenz1267/elephant)
+5. 🗣 Commented on [#6372](https://github.com/basecamp/omarchy/pull/6372#issuecomment-5078489531) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
 <!--END_SECTION:activity-->
 
 ### Stats
