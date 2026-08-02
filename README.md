@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/enhaoswen/Tide-island/pull/38#issuecomment-5153021365) in [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island)
-2. 💪 Opened PR [#6481](https://github.com/basecamp/omarchy/pull/6481) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-3. 🎉 Merged PR [#48](https://github.com/phucisstupid/dotfiles/pull/48) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-4. 💪 Opened PR [#48](https://github.com/phucisstupid/dotfiles/pull/48) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
-5. 🗣 Commented on [#672](https://github.com/Alexays/Waybar/issues/672#issuecomment-5144169114) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+1. 🗣 Commented on [#85](https://github.com/sandwichfarm/hyprexpo/issues/85#issuecomment-5159452601) in [sandwichfarm/hyprexpo](https://github.com/sandwichfarm/hyprexpo)
+2. 🗣 Commented on [#38](https://github.com/enhaoswen/Tide-island/pull/38#issuecomment-5153021365) in [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island)
+3. 💪 Opened PR [#6481](https://github.com/basecamp/omarchy/pull/6481) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+4. 🎉 Merged PR [#48](https://github.com/phucisstupid/dotfiles/pull/48) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
+5. 💪 Opened PR [#48](https://github.com/phucisstupid/dotfiles/pull/48) in [phucisstupid/dotfiles](https://github.com/phucisstupid/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Stats
