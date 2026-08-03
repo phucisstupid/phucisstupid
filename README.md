@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/enhaoswen/Tide-island/pull/40) in [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island)
-2. 🔒 Closed issue [#85](https://github.com/sandwichfarm/hyprexpo/issues/85) in [sandwichfarm/hyprexpo](https://github.com/sandwichfarm/hyprexpo)
-3. 🗣 Commented on [#85](https://github.com/sandwichfarm/hyprexpo/issues/85#issuecomment-5159452601) in [sandwichfarm/hyprexpo](https://github.com/sandwichfarm/hyprexpo)
-4. 🗣 Commented on [#38](https://github.com/enhaoswen/Tide-island/pull/38#issuecomment-5153021365) in [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island)
-5. 💪 Opened PR [#6481](https://github.com/basecamp/omarchy/pull/6481) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+1. 🗣 Commented on [#1912](https://github.com/NixOS/nixos-hardware/pull/1912#issuecomment-5162288653) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
+2. 🎉 Merged PR [#40](https://github.com/enhaoswen/Tide-island/pull/40) in [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island)
+3. 💪 Opened PR [#40](https://github.com/enhaoswen/Tide-island/pull/40) in [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island)
+4. 🔒 Closed issue [#85](https://github.com/sandwichfarm/hyprexpo/issues/85) in [sandwichfarm/hyprexpo](https://github.com/sandwichfarm/hyprexpo)
+5. 🗣 Commented on [#85](https://github.com/sandwichfarm/hyprexpo/issues/85#issuecomment-5159452601) in [sandwichfarm/hyprexpo](https://github.com/sandwichfarm/hyprexpo)
 <!--END_SECTION:activity-->
 
 ### Stats
