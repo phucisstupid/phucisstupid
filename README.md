@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#648](https://github.com/denful/den/pull/648) in [denful/den](https://github.com/denful/den)
-2. 🗣 Commented on [#1912](https://github.com/NixOS/nixos-hardware/pull/1912#issuecomment-5162288653) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
-3. 🎉 Merged PR [#40](https://github.com/enhaoswen/Tide-island/pull/40) in [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island)
-4. 💪 Opened PR [#40](https://github.com/enhaoswen/Tide-island/pull/40) in [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island)
-5. 🔒 Closed issue [#85](https://github.com/sandwichfarm/hyprexpo/issues/85) in [sandwichfarm/hyprexpo](https://github.com/sandwichfarm/hyprexpo)
+1. 🗣 Commented on [#648](https://github.com/denful/den/pull/648#issuecomment-5186048226) in [denful/den](https://github.com/denful/den)
+2. 💪 Opened PR [#648](https://github.com/denful/den/pull/648) in [denful/den](https://github.com/denful/den)
+3. 🗣 Commented on [#1912](https://github.com/NixOS/nixos-hardware/pull/1912#issuecomment-5162288653) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
+4. 🎉 Merged PR [#40](https://github.com/enhaoswen/Tide-island/pull/40) in [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island)
+5. 💪 Opened PR [#40](https://github.com/enhaoswen/Tide-island/pull/40) in [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island)
 <!--END_SECTION:activity-->
 
 ### Stats
