@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5553](https://github.com/basecamp/omarchy/pull/5553#issuecomment-5194181054) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-2. 🗣 Commented on [#648](https://github.com/denful/den/pull/648#issuecomment-5186048226) in [denful/den](https://github.com/denful/den)
-3. 💪 Opened PR [#648](https://github.com/denful/den/pull/648) in [denful/den](https://github.com/denful/den)
-4. 🗣 Commented on [#1912](https://github.com/NixOS/nixos-hardware/pull/1912#issuecomment-5162288653) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
-5. 🎉 Merged PR [#40](https://github.com/enhaoswen/Tide-island/pull/40) in [enhaoswen/Tide-island](https://github.com/enhaoswen/Tide-island)
+1. 🗣 Commented on [#36](https://github.com/electrickite/batsignal/pull/36#issuecomment-5201393598) in [electrickite/batsignal](https://github.com/electrickite/batsignal)
+2. 🗣 Commented on [#5553](https://github.com/basecamp/omarchy/pull/5553#issuecomment-5194181054) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+3. 🗣 Commented on [#648](https://github.com/denful/den/pull/648#issuecomment-5186048226) in [denful/den](https://github.com/denful/den)
+4. 💪 Opened PR [#648](https://github.com/denful/den/pull/648) in [denful/den](https://github.com/denful/den)
+5. 🗣 Commented on [#1912](https://github.com/NixOS/nixos-hardware/pull/1912#issuecomment-5162288653) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
 <!--END_SECTION:activity-->
 
 ### Stats
