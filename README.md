@@ -6,11 +6,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6611](https://github.com/basecamp/omarchy/pull/6611#issuecomment-5224273973) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-2. 🎉 Merged PR [#648](https://github.com/denful/den/pull/648) in [denful/den](https://github.com/denful/den)
-3. 🗣 Commented on [#36](https://github.com/electrickite/batsignal/pull/36#issuecomment-5201393598) in [electrickite/batsignal](https://github.com/electrickite/batsignal)
-4. 🗣 Commented on [#5553](https://github.com/basecamp/omarchy/pull/5553#issuecomment-5194181054) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-5. 🗣 Commented on [#648](https://github.com/denful/den/pull/648#issuecomment-5186048226) in [denful/den](https://github.com/denful/den)
+1. 🗣 Commented on [#15898](https://github.com/hyprwm/Hyprland/pull/15898#issuecomment-5346293164) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+2. 🗣 Commented on [#6611](https://github.com/basecamp/omarchy/pull/6611#issuecomment-5224273973) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+3. 🎉 Merged PR [#648](https://github.com/denful/den/pull/648) in [denful/den](https://github.com/denful/den)
+4. 🗣 Commented on [#36](https://github.com/electrickite/batsignal/pull/36#issuecomment-5201393598) in [electrickite/batsignal](https://github.com/electrickite/batsignal)
+5. 🗣 Commented on [#5553](https://github.com/basecamp/omarchy/pull/5553#issuecomment-5194181054) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
 <!--END_SECTION:activity-->
 
 ### Stats
