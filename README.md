@@ -6,10 +6,10 @@
 ### Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5553](https://github.com/basecamp/omarchy/pull/5553#issuecomment-5396660704) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-2. 🗣 Commented on [#7767](https://github.com/basecamp/omarchy/pull/7767#issuecomment-5380360553) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+1. 🗣 Commented on [#5553](https://github.com/omacom/omarchy/pull/5553#issuecomment-5396660704) in [omacom/omarchy](https://github.com/omacom/omarchy)
+2. 🗣 Commented on [#7767](https://github.com/omacom/omarchy/pull/7767#issuecomment-5380360553) in [omacom/omarchy](https://github.com/omacom/omarchy)
 3. 🗣 Commented on [#15898](https://github.com/hyprwm/Hyprland/pull/15898#issuecomment-5346293164) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-4. 🗣 Commented on [#6611](https://github.com/basecamp/omarchy/pull/6611#issuecomment-5224273973) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+4. 🗣 Commented on [#6611](https://github.com/omacom/omarchy/pull/6611#issuecomment-5224273973) in [omacom/omarchy](https://github.com/omacom/omarchy)
 5. 🎉 Merged PR [#648](https://github.com/denful/den/pull/648) in [denful/den](https://github.com/denful/den)
 <!--END_SECTION:activity-->
 
