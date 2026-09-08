@@ -23,11 +23,6 @@ jobs:
             snake-catppuccin-mocha.svg?color_snake=#f5c2e7&color_dots=#312c42,#62537f,#8570a6,#a88bcf,#cba6f7
             snake-github-light.svg?palette=github-light
             
-      - name: Generate readme activities
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       # -------- DARK --------
       - name: Generate stats card (dark)
         uses: readme-tools/github-readme-stats-action@main
