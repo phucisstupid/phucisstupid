@@ -15,4 +15,4 @@
   <img width="400" src="./top-langs-dark.svg#gh-dark-mode-only" />
 </div>
 
-<sub>My profile picture is rendered with [avatar-planet.py](./avatar-planet.py), using only Python’s standard library: `python3 avatar-planet.py`.</sub>
+<sub>My profile picture is rendered with [avatar-planet.py](./avatar-planet.py), run it using: `python avatar-planet.py`.</sub>
