@@ -1,8 +1,6 @@
 ![Snake (Light)](./snake-github-light.svg#gh-light-mode-only)
 ![Snake (Dark)](./snake-catppuccin-mocha.svg#gh-dark-mode-only)
 
-### Stats
-
 <div>
   <!-- Light mode -->
   <img width="400" src="./stats-light.svg#gh-light-mode-only" />
