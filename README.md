@@ -17,4 +17,4 @@
 
 <sub>If you enjoy what I do please 🌟 Star my repos, 💕 Follow me [@phucisstupid](https://github.com/phucisstupid). Your support means a lot! 🥰</sub>
 
-My profile picture is rendered with [avatar-planet.py](./avatar-planet.py), using only Python’s standard library: `python3 avatar-planet.py`.
+<sub>My profile picture is rendered with [avatar-planet.py](./avatar-planet.py), using only Python’s standard library: `python3 avatar-planet.py`.</sub>
