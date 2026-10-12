@@ -1,5 +1,3 @@
-<h3 align="center">Certified nonsense profile readme</h3>
-
 ![Snake (Light)](./snake-github-light.svg#gh-light-mode-only)
 ![Snake (Dark)](./snake-catppuccin-mocha.svg#gh-dark-mode-only)
 
