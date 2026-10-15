@@ -3,7 +3,7 @@
   <img width="100%" src="./snake-github-light.svg#gh-light-mode-only" />
   <img width="100%" src="./snake-catppuccin-mocha.svg#gh-dark-mode-only" />
 
-  <br/><br/>  
+  <br/> 
   
   <!-- Bottom: 2 Small Images (Light Mode) -->
   <img width="49%" src="./stats-light.svg#gh-light-mode-only" />
