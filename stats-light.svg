@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">phuclee&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 145, Total Commits  (last year) : 516, Total PRs: 191, Total Issues: 148, Contributed to (last year): 29</desc>
+        <desc id="descId">Total Stars Earned: 145, Total Commits  (last year) : 517, Total PRs: 191, Total Issues: 148, Contributed to (last year): 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #137980;
+            fill: #0969da;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #4c4f69;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #59636e;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #4c4f69;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #59636e;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #8839ef;
+      fill: #0969da;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #137980;
+      stroke: #0969da;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #137980;
+      stroke: #0969da;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 55.75710670691769;
+        stroke-dashoffset: 55.72937055357278;
       }
     }
   
@@ -116,9 +116,9 @@
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#d1d9e0"
           width="466"
-          fill="#eff1f5"
+          fill="#ffffff"
           stroke-opacity="0"
         />
 
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >516</text>
+      >517</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
